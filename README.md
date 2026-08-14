@@ -3,8 +3,10 @@
 These are the collected results of the IOL-AI 2026 competition: the 14 problems, the answer key, the scorer,
 and one record per row of the leaderboard at [iolai.org](https://iolai.org).
 
-The problems are the International Linguistics Olympiad's, taken from IOL 2026
-([ioling.org](https://ioling.org)). The competition put them to language models instead of students.
+The problems are the International Linguistics Olympiad's, taken from the Individual Contest at IOL 2026
+([ioling.org](https://ioling.org)). This competition put them to language models instead of students.
+
+Copyright for the problems remains at IOL. Authors for the [2026 problems and solutions](https://ioling.org/problems/by_year/#23) are Lai Otsuka, Dan-Mircea Mirea, Eimear McKnight, Vesko Milev.
 
 ## Repository structure
 
