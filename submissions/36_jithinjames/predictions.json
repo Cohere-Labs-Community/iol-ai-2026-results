@@ -1,0 +1,744 @@
+[
+  {
+    "id": "12026010100",
+    "pred": "[\"### Step-by-step Analysis\", \"#### Example Breakdown\", \"**Example 1:** qasgulek | [ˈqaz.ɣu.ɮəkʰ] | ribbon seal\", \"Morphemes:\", \"- `qaz` - unknown function\"]",
+    "predicted_items": [
+      "### Step-by-step Analysis",
+      "#### Example Breakdown",
+      "**Example 1:** qasgulek | [ˈqaz.ɣu.ɮəkʰ] | ribbon seal",
+      "Morphemes:",
+      "- `qaz` - unknown function"
+    ],
+    "target_text": "[\"melquleliurta\", \"qayapigkani_NS\", \"tallirraq\", \"keggsailkutaq\", \"cup'gallagtuq\"]",
+    "eval_type": "single",
+    "task_type": "translation",
+    "points": 1.0,
+    "split": "public",
+    "scores": {
+      "em": 0.0,
+      "chrf": 0.059385,
+      "item_em": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "item_chrf": [
+        0.066667,
+        0.054825,
+        0.080986,
+        0.026882,
+        0.067568
+      ]
+    },
+    "explanation": "### Step-by-step Analysis\n\n#### Example Breakdown\n\n**Example 1:** qasgulek | [ˈqaz.ɣu.ɮəkʰ] | ribbon seal  \nMorphemes: \n- `qaz` - unknown function\n- `ɣu` - unknown function\n- `ɮəkʰ` - \"seal\"\n\n**Example 2:** nanevpak | [na.ˈnəf.pakʰ] | big lake  \nMorphemes: \n- `na` - unknown function\n- `nəf` - \"big\"\n- `pakʰ` - \"lake\"\n\n**Example 3:** tep'liuq | [ˈtəp.ɮi.uqʰ] | he is making aged fish-heads  \nMorphemes: \n- `təp` - unknown function\n- `ɮi` - \"make\" / verb stem\n- `uqʰ` - third-person singular present-tense suffix\n\n**Example 4:** nav'pagtuq | [ˈnav.pax.tuqʰ] | it really broke  \nMorphemes: \n- `nav` - unknown function\n- `pax` - \"break\"\n- `tuqʰ` - past tense suffix\n\n**Example 5:** qamiq'vak | [qa.ˈmiq.vakʰ] | (a type of moth)  \nMorphemes: \n- `qa` - unknown function\n- `miq` - \"moth\"\n- `vakʰ` - unknown function\n\n**Example 6:** nat'rarkaq | [ˈnat.ʁaχ.kaqʰ] | sole material for skin boots  \nMorphemes: \n- `nat` - unknown function\n- `ʁaχ` - \"sole\"\n- `kaqʰ` - unknown function\n\n**Example 7:** calugun | [ca.ˈɮuː.ɣun] | skin scraper  \nMorphemes: \n- `ca` - unknown function\n- `ɮuː` - \"scrape\"\n- `ɣun` - tool noun ending?\n\n**Example 8:** kaal'taaq | [ka.ˈaɮ.ta.aqʰ] | playing card  \nMorphemes: \n- `ka` - unknown function\n- `aɮ` - \"card\"\n- `taaqʰ` - unknown function\n\n**Example 9:** ullelluku | [u.ˈɬəɬ.ɬu.ku] | turning it inside out  \nMorphemes: \n- `u` - prefix?\n- `ɬəɬ` - \"turn\"\n- `ku` - object pronoun suffix?\n\n**Example 10:** ilquineq | [ˈiɬ.qu.ˈiː.nəqʰ] | skull  \nMorphemes: \n- `iɬqu` - unknown function\n- `iːnəqʰ` - \"skull\"\n\n**Example 11:** kaltuuvvilaq | [ˈkaɬ.tu.ˈuː.fi.ɮaqʰ] | potato  \nMorphemes: \n- `kaɬtu` - unknown function\n- `uːfi` - \"potato\"\n- `ɮaqʰ` - unknown function\n\n**Example 12:** kayangurngalnguq | [ka.ˈjaː.ŋuʁ.ˈŋaɮ.ŋuqʰ] | oval thing  \nMorphemes: \n- `ka` - unknown function\n- `jaːŋuʁ` - \"oval\"\n- `ŋaɮŋuqʰ` - unknown function\n\n**Example 13:** assikekeka | [a.ˈsiː.kə.ˈkək.ka] | I like him  \nMorphemes: \n- `asiː` - \"like\"\n- `kəkka` - subject + object pronouns\n\n**Example 14:** ...",
+    "has_explanation": true,
+    "n_expected_items": 5,
+    "format": {
+      "empty": false,
+      "clean_json_list": true,
+      "n_items_parsed": 5,
+      "item_count_matches": true
+    },
+    "source": "Write in Central Alaskan Yup'ik. For forms that are valid in only one of the two dialects (NS or GCY), indicate which dialect is represented (append _NS or _GCY after the form).\n\n1. [ˈməɬ.qu.ˈɮəɮ.ɮi.ˈuχ.ta] | wildlife officer\n2. [qa.ˈjaː.pix.ˈkaː.ni] | his own future authentic kayak\n3. [ta.ˈɬiː.χaqʰ] | hook used in kayak\n4. [ˈkəx.sa.ˈiɬ.ku.taqʰ] | muzzle for dog\n5. [ˈcup.ɣa.ˈɬax.tuqʰ] | he suddenly felt homesick",
+    "context": "Here are some words in Central Alaskan Yup'ik along with their phonetic transcriptions and translations. All of them are spoken in the Norton Sound (NS) dialect:\n\nqasgulek | [ˈqaz.ɣu.ɮəkʰ] | ribbon seal\nnanevpak | [na.ˈnəf.pakʰ] | big lake\ntep'liuq | [ˈtəp.ɮi.uqʰ] | he is making aged fish-heads\nnav'pagtuq | [ˈnav.pax.tuqʰ] | it really broke\nqamiq'vak | [qa.ˈmiq.vakʰ] | (a type of moth)\nnat'rarkaq | [ˈnat.ʁaχ.kaqʰ] | sole material for skin boots\ncalugun | [ca.ˈɮuː.ɣun] | skin scraper\nkaal'taaq | [ka.ˈaɮ.ta.aqʰ] | playing card\nullelluku | [u.ˈɬəɬ.ɬu.ku] | turning it inside out\nilquineq | [ˈiɬ.qu.ˈiː.nəqʰ] | skull\nkaltuuvvilaq | [ˈkaɬ.tu.ˈuː.fi.ɮaqʰ] | potato\nkayangurngalnguq | [ka.ˈjaː.ŋuʁ.ˈŋaɮ.ŋuqʰ] | oval thing\nassikekeka | [a.ˈsiː.kə.ˈkək.ka] | I like him\npaluteqerru | [pa.ˈɮuː.tə.ˈqəχ.χu] | please close it\niggiggiayuli | [i.ˈxiː.xi.ˈaː.ju.ɮi] | great horned owl\nilalkumalria | [i.ˈɮaɬ.ku.ˈmaɮ.ʁi.a] | victim\napepailgaku | [a.ˈpəp.pa.ˈiɮ.ɣa.ku] | before asking him\nyuarutlertangqertuq | [ju.ˈaː.ʁutʰ.ˈɬəχ.taŋ.ˈqəχ.tuqʰ] | there is an old song\ntutgarrlugaq | [ˈtutʰ.xaχ.ˈɬuː.ɣaqʰ] | grandchild\ncuukvagtalek | [cu.ˈukʰ.fax.ˈtaː.ɮəkʰ] | place with many pike (fish)\ncangatenrituten | [ca.ˈŋaː.tən.ˈʁiː.tu.tən] | there is nothing wrong with you\ncungagcessvakartat | [cu.ˈŋax.cəs.ˈfaː.kaχ.tatʰ] | how green they are!\n\nOut of the forms above, only the last four are spoken differently in General Central Yup'ik (GCY), another dialect of the language. Here are the phonetic transcriptions of these forms, as spoken in the GCY dialect:\n\ntutgarrlugaq | [ˈtutʰ.ˈxaχ.ɬu.ɣaqʰ] | grandchild\ncuukvagtalek | [cu.ˈukʰ.ˈfax.ta.ɮəkʰ] | place with many pike (fish)\ncangatenrituten | [ca.ˈŋaː.ˈtən.ʁi.ˈtuː.tən] | there is nothing wrong with you\ncungagcessvakartat | [cu.ˈŋax.ˈcəs.fa.ˈkaχ.tatʰ] | how green they are!\n\nThe Central Alaskan Yup'ik language belongs to the Eskimo-Aleut family. It is spoken by approx. 10,000 people in southwestern Alaska in the United States of America. The mark ː indicates that the vowel is long. The mark . separates syllables. The mark ˈ goes before the stressed syllable(s). [ʰ] indicates aspiration of the preceding consonant. [ə] = a in about. [j] = y in you. [c] = tch in kitchen. [q] = c in car, but further back in the mouth. [x] = ch in Bach. [ɣ] = [x], but with vocal cord vibration. [χ] = [x], but further back in the mouth. [ʁ] = [χ], but with vocal cord vibration. [ɬ] = s in sing, but with the tongue positioned as for l. [ɮ] = [ɬ], but with vocal cord vibration. [ŋ] = ng in hang.",
+    "work_lang": "eng_Latn",
+    "task_lang": "['esu_Latn']"
+  },
+  {
+    "id": "12026010200",
+    "pred": "[\"Let's start by identifying the morphological components and meanings based on the provided examples:\", \"### Step-by-step Analysis\", \"#### Example Words Breakdown\", \"**Example:** qasgulek | [ˈqaz.ɣu.ɮəkʰ] | ribbon seal\", \"- Morphemes: `qa` + `sgul` + `-lek`\", \"- Meaning: \\\"ribbon\\\" + \\\"seal\", \"**Example:** nanevpak | [na.ˈnəf.pakʰ] | big lake\"]",
+    "predicted_items": [
+      "Let's start by identifying the morphological components and meanings based on the provided examples:",
+      "### Step-by-step Analysis",
+      "#### Example Words Breakdown",
+      "**Example:** qasgulek | [ˈqaz.ɣu.ɮəkʰ] | ribbon seal",
+      "- Morphemes: `qa` + `sgul` + `-lek`",
+      "- Meaning: \"ribbon\" + \"seal",
+      "**Example:** nanevpak | [na.ˈnəf.pakʰ] | big lake"
+    ],
+    "target_text": "[\"[a.ˈaχ.taχ.tuqʰ]\", \"[a.ˈkək.ka.ˈtaː.ki]\", \"[nə.ˈɣav.ɣun]\", \"[a.ˈtaː.zu.akʰ]\", \"[ˈnəʁ.ci.quqʰ]\", \"[a.ˈɮiː.kən.ˈʁiː.ta.qa] [a.ˈɮiː.ˈkən.ʁi.ˈtaː.qa]\", \"[ˈnəqʰ.ɬin.ˈχaʁ.məkʰ]\"]",
+    "eval_type": "single",
+    "task_type": "translation",
+    "points": 1.0,
+    "split": "private",
+    "scores": {
+      "em": 0.0,
+      "chrf": 0.056205,
+      "item_em": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "item_chrf": [
+        0.033305,
+        0.03367,
+        0.021645,
+        0.127799,
+        0.019608,
+        0.023697,
+        0.133709
+      ]
+    },
+    "explanation": "Let's start by identifying the morphological components and meanings based on the provided examples:\n\n### Step-by-step Analysis\n\n#### Example Words Breakdown\n\n**Example:** qasgulek | [ˈqaz.ɣu.ɮəkʰ] | ribbon seal  \n- Morphemes: `qa` + `sgul` + `-lek`\n- Meaning: \"ribbon\" + \"seal\"\n\n**Example:** nanevpak | [na.ˈnəf.pakʰ] | big lake  \n- Morphemes: `nan` + `ev` + `-pak`\n- Meaning: \"big\" + \"lake\"\n\n**Example:** tep'liuq | [ˈtəp.ɮi.uqʰ] | he is making aged fish-heads  \n- Morphemes: `te` + `pliu` + `-qu`\n- Meaning: \"he makes\" + \"aged fish heads\"\n\n**Example:** nav'pagtuq | [ˈnav.pax.tuqʰ] | it really broke  \n- Morphemes: `na` + `vap` + `-gu` + `-tuq`\n- Meaning: \"it breaks\" + \"really\"\n\n**Example:** qamiq'vak | [qa.ˈmiq.vakʰ] | (a type of moth)  \n- Morphemes: `qa` + `mik` + `-va` + `-ku`\n- Meaning: \"moth\"\n\n**Example:** nat'rarkaq | [ˈnat.ʁaχ.kaqʰ] | sole material for skin boots  \n- Morphemes: `na` + `trar` + `-kaq`\n- Meaning: \"sole\" + \"material\"\n\n**Example:** calugun | [ca.ˈɮuː.ɣun] | skin scraper  \n- Morphemes: `ca` + `lu` + `-gun`\n- Meaning: \"skin\" + \"scraper\"\n\n**Example:** kaal'taaq | [ka.ˈaɮ.ta.aqʰ] | playing card  \n- Morphemes: `ka` + `lt` + `-taaq`\n- Meaning: \"playing\" + \"card\"\n\n**Example:** ullelluku | [u.ˈɬəɬ.ɬu.ku] | turning it inside out  \n- Morphemes: `ul` + `ell` + `-luku`\n- Meaning: \"turning\" + \"inside out\"\n\n**Example:** ilquineq | [ˈiɬ.qu.ˈiː.nəqʰ] | skull  \n- Morphemes: `il` + `quin` + `-eq`\n- Meaning: \"skull\"\n\n**Example:** kaltuuvvilaq | [ˈkaɬ.tu.ˈuː.fi.ɮaqʰ] | potato  \n- Morphemes: `kal` + `tuuvvi` + `-laq`\n- Meaning: \"potato\"\n\n**Example:** kayangurngalnguq | [ka.ˈjaː.ŋuʁ.ˈŋaɮ.ŋuqʰ] | oval thing  \n- Morphemes: `ka` + `yangur` + `-ngalnguq`\n- Meaning: \"oval\" + \"thing\"\n\n**Example:** assikekeka | [a.ˈsiː.kə.ˈkək.ka] | I like him  \n- Morphemes: `asi` + `kke` + `-eka`\n- Meaning: \"I like\" + \"him\"\n\n**Example:** paluteqerru | [pa.ˈɮuː.tə.ˈqəχ.χu] | please close it  \n- Morphemes: `pal` + `uteqe` + `-ru`\n- Meaning: \"please\" + \"close\"\n\n**Example:** iggiggiayuli | ...",
+    "has_explanation": true,
+    "n_expected_items": 7,
+    "format": {
+      "empty": false,
+      "clean_json_list": true,
+      "n_items_parsed": 7,
+      "item_count_matches": true
+    },
+    "source": "Write the phonetic transcriptions of the forms below. For transcriptions that differ across dialects, write both transcriptions, space-separated, in the order NS then GCY (e.g. for tutgarrlugaq 'grandchild': [ˈtutʰ.xaχ.ˈɬuː.ɣaqʰ] [ˈtutʰ.ˈxaχ.ɬu.ɣaqʰ]).\n\n6. aartartuq | he tends to be wary\n7. akekataki | ouch!\n8. negavgun | root used as scrubber in bath\n9. atasuak | summer trousers\n10. ner'ciquq | he will eat\n11. alikenritaqa | I do not fear it\n12. neqlinrrarmek | from fish cut up just now",
+    "context": "Here are some words in Central Alaskan Yup'ik along with their phonetic transcriptions and translations. All of them are spoken in the Norton Sound (NS) dialect:\n\nqasgulek | [ˈqaz.ɣu.ɮəkʰ] | ribbon seal\nnanevpak | [na.ˈnəf.pakʰ] | big lake\ntep'liuq | [ˈtəp.ɮi.uqʰ] | he is making aged fish-heads\nnav'pagtuq | [ˈnav.pax.tuqʰ] | it really broke\nqamiq'vak | [qa.ˈmiq.vakʰ] | (a type of moth)\nnat'rarkaq | [ˈnat.ʁaχ.kaqʰ] | sole material for skin boots\ncalugun | [ca.ˈɮuː.ɣun] | skin scraper\nkaal'taaq | [ka.ˈaɮ.ta.aqʰ] | playing card\nullelluku | [u.ˈɬəɬ.ɬu.ku] | turning it inside out\nilquineq | [ˈiɬ.qu.ˈiː.nəqʰ] | skull\nkaltuuvvilaq | [ˈkaɬ.tu.ˈuː.fi.ɮaqʰ] | potato\nkayangurngalnguq | [ka.ˈjaː.ŋuʁ.ˈŋaɮ.ŋuqʰ] | oval thing\nassikekeka | [a.ˈsiː.kə.ˈkək.ka] | I like him\npaluteqerru | [pa.ˈɮuː.tə.ˈqəχ.χu] | please close it\niggiggiayuli | [i.ˈxiː.xi.ˈaː.ju.ɮi] | great horned owl\nilalkumalria | [i.ˈɮaɬ.ku.ˈmaɮ.ʁi.a] | victim\napepailgaku | [a.ˈpəp.pa.ˈiɮ.ɣa.ku] | before asking him\nyuarutlertangqertuq | [ju.ˈaː.ʁutʰ.ˈɬəχ.taŋ.ˈqəχ.tuqʰ] | there is an old song\ntutgarrlugaq | [ˈtutʰ.xaχ.ˈɬuː.ɣaqʰ] | grandchild\ncuukvagtalek | [cu.ˈukʰ.fax.ˈtaː.ɮəkʰ] | place with many pike (fish)\ncangatenrituten | [ca.ˈŋaː.tən.ˈʁiː.tu.tən] | there is nothing wrong with you\ncungagcessvakartat | [cu.ˈŋax.cəs.ˈfaː.kaχ.tatʰ] | how green they are!\n\nOut of the forms above, only the last four are spoken differently in General Central Yup'ik (GCY), another dialect of the language. Here are the phonetic transcriptions of these forms, as spoken in the GCY dialect:\n\ntutgarrlugaq | [ˈtutʰ.ˈxaχ.ɬu.ɣaqʰ] | grandchild\ncuukvagtalek | [cu.ˈukʰ.ˈfax.ta.ɮəkʰ] | place with many pike (fish)\ncangatenrituten | [ca.ˈŋaː.ˈtən.ʁi.ˈtuː.tən] | there is nothing wrong with you\ncungagcessvakartat | [cu.ˈŋax.ˈcəs.fa.ˈkaχ.tatʰ] | how green they are!\n\nThe Central Alaskan Yup'ik language belongs to the Eskimo-Aleut family. It is spoken by approx. 10,000 people in southwestern Alaska in the United States of America. The mark ː indicates that the vowel is long. The mark . separates syllables. The mark ˈ goes before the stressed syllable(s). [ʰ] indicates aspiration of the preceding consonant. [ə] = a in about. [j] = y in you. [c] = tch in kitchen. [q] = c in car, but further back in the mouth. [x] = ch in Bach. [ɣ] = [x], but with vocal cord vibration. [χ] = [x], but further back in the mouth. [ʁ] = [χ], but with vocal cord vibration. [ɬ] = s in sing, but with the tongue positioned as for l. [ɮ] = [ɬ], but with vocal cord vibration. [ŋ] = ng in hang.",
+    "work_lang": "eng_Latn",
+    "task_lang": "['esu_Latn']"
+  },
+  {
+    "id": "12026020100",
+    "pred": "[\"white cockatoo chick\", \"completely white\", \"nut that turns black when roasted\", \"small ship\", \"the tree has red leaves\", \"white thing\", \"black\", \"chunks of iron\", \"greasy\", \"two thin stones\", \"intestine\", \"intestinal worms\", \"European person, foreigner\", \"tree trunk\", \"green snake\", \"bee\", \"alcoholic drink\", \"thin person\", \"(unripe) mango\", \"water\", \"yellow snake\", \"corpse\", \"eyeball\", \"stick\", \"quickly ('like lightning')\", \"snake\", \"sweet (adjective)\"]",
+    "predicted_items": [
+      "white cockatoo chick",
+      "completely white",
+      "nut that turns black when roasted",
+      "small ship",
+      "the tree has red leaves",
+      "white thing",
+      "black",
+      "chunks of iron",
+      "greasy",
+      "two thin stones",
+      "intestine",
+      "intestinal worms",
+      "European person, foreigner",
+      "tree trunk",
+      "green snake",
+      "bee",
+      "alcoholic drink",
+      "thin person",
+      "(unripe) mango",
+      "water",
+      "yellow snake",
+      "corpse",
+      "eyeball",
+      "stick",
+      "quickly ('like lightning')",
+      "snake",
+      "sweet (adjective)"
+    ],
+    "target_text": "[\"C\", \"A\", \"B\", \"G\", \"D\", \"F\", \"E\", \"M\", \"K\", \"N\", \"P\", \"H\", \"I\", \"J\", \"L\", \"O\", \"Y\", \"X\", \"Q\", \"S\", \"Z\", \"U\", \"AA\", \"V\", \"R\", \"T\", \"W\"]",
+    "eval_type": "single",
+    "task_type": "match_letters",
+    "points": 1.0,
+    "split": "public",
+    "scores": {
+      "em": 0.0,
+      "chrf": 0.012854,
+      "item_em": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "item_chrf": [
+        0.044643,
+        0.0,
+        0.02907,
+        0.0,
+        0.042373,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.060976,
+        0.0,
+        0.0,
+        0.033784,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.086207,
+        0.0,
+        0.0,
+        0.0,
+        0.05
+      ]
+    },
+    "explanation": "Let's go through all the provided examples systematically to identify patterns and meanings associated with specific forms in Yélî Dnye.\n\n### Example Breakdowns\n\n#### Examples 1 - 7\n1. **kpêdê** → \"black\"\n   - Morphemes: `kpê` + `dê`\n   \n2. **kpêdêkpêdê** → \"completely black\" \n   - Morphemes: `kpê` + `dê` repeated twice\n   \n3. **kpaapî ntóó** → \"small ship\"\n   - Morphemes: `kpaapî`, `ntóó`\n\n4. **kpaapî tp:oo** → \"white thing\"\n   - Morphemes: `kpaapî`, `tp:oo`\n\n5. **nkéli tp:oo** → \"the tree has red leaves\"\n   - Morphemes: `nkéli`, `tp:oo`\n\n6. **tpile kpaapîkpaapî** → \"white cockatoo chick\"\n   - Morphemes: `tpile`, `kpaapî` repeated twice\n\n7. **yi yââ mtyemtye** → \"nut that turns black when roasted\"\n   - Morphemes: `yi`, `yââ`, `mtyemtye`\n\n#### Examples 8 - 16\n8. **chêêpî mbwii miyó** → \"chunks of iron\"\n   - Morphemes: `chêêpî`, `mbwii`, `miyó`\n\n9. **kinikini** → \"greasy\"\n   - Morphemes: `ki` + `ni` + `ki` + `ni`\n\n10. **lîmî k:ii** → \"two thin stones\"\n    - Morphemes: `lîmî`, `k:ii`\n\n11. **mty:aamty:aa** → \"intestine\"\n    - Morphemes: `mty:aamty:aa`\n\n12. **mty:aa wee** → \"intestinal worms\"\n    - Morphemes: `mty:aa`, `wee`\n\n13. **nkéli chêêpî pââ** → \"European person, foreigner\"\n    - Morphemes: `nkéli`, `chêêpî`, `pââ`\n\n14. **nkéli pi** → \"tree trunk\"\n    - Morphemes: `nkéli`, `pi`\n\n15. **tpile wee** → \"green snake\"\n    - Morphemes: `tpile`, `wee`\n\n16. **yi mbwii** → \"bee\"\n    - Morphemes: `yi`, `mbwii`\n\n#### Examples 17 - 27\n17. **kémi nt:uu** → \"alcoholic drink\"\n    - Morphemes: `kémi`, `nt:uu`\n\n18. **k:ii miyó** → \"thin person\"\n    - Morphemes: `k:ii`, `miyó`\n\n19. **nkéli mbwaa** → \"(unripe) mango\"\n    - Morphemes: `nkéli`, `mbwaa`\n\n20. **ngwolo nt:uu** → \"water\"\n    - Morphemes: `ngwolo`, `nt:uu`\n\n21. **mbwaa** → \"yellow snake\"\n    - Morphemes: `mbwaa`\n\n22. **mwi pê** → \"corpse\"\n    - Morphemes: `mwi`, `pê`\n\n23. **tpile pê k:ii kîgha nt:uu k:ii** → \"eyeball\"\n    - Morphemes: `tpile`, `pê`, `k:ii`, `kîgha`, `nt:uu`, `k:ii`\n\n24. **pi mbwii** → \"stick\"\n    - ...",
+    "has_explanation": true,
+    "n_expected_items": 27,
+    "format": {
+      "empty": false,
+      "clean_json_list": true,
+      "n_items_parsed": 27,
+      "item_count_matches": true
+    },
+    "source": "Determine the correct correspondences.",
+    "context": "Here are some words and phrases in Yélî Dnye and their English translations in arbitrary order:\n\n1. kpêdê\n2. kpêdêkpêdê\n3. kpaapî ntóó\n4. kpaapî tp:oo\n5. nkéli tp:oo\n6. tpile kpaapîkpaapî\n7. yi yââ mtyemtye\n\nA. black\nB. completely white\nC. nut that turns black when roasted\nD. small ship\nE. the tree has red leaves\nF. white thing\nG. white cockatoo chick\n\nBelow are some more words and phrases in Yélî Dnye and their English translations in arbitrary order:\n\n8. chêêpî mbwii miyó\n9. kinikini\n10. lîmî k:ii\n11. mty:aamty:aa\n12. mty:aa wee\n13. nkéli chêêpî pââ\n14. nkéli pi\n15. tpile wee\n16. yi mbwii\n\nH. bee\nI. chunks of iron\nJ. European person, foreigner\nK. greasy\nL. insect\nM. two thin stones\nN. quickly (\"like lightning\")\nO. stick\nP. sweet (adjective)\n\nFinally, below are yet more words and phrases in Yélî Dnye and their English translations in arbitrary order:\n\n17. kémi nt:uu\n18. k:ii miyó\n19. nkéli mbwaa\n20. ngwolo nt:uu\n21. mbwaa\n22. mwi pê\n23. tpile pê k:ii kîgha nt:uu k:ii\n24. pi mbwii\n25. pi ntóó\n26. tpile pê yi kuu yââ k:ii\n27. yi pââ\n\nQ. alcoholic drink\nR. corpse\nS. eyeball\nT. green snake\nU. intestinal worm\nV. thin person\nW. tree trunks\nX. two banana plants\nY. (unripe) mango\nZ. water\nAA. yellow snake\n\nThe Yélî Dnye language (also known as Yele) is currently unclassified and may be a language isolate. It is spoken by approx. 5000 people on Rossel Island, in the south-eastern part of Papua New Guinea. A white cockatoo is a type of bird. The southern part of Papua New Guinea was historically under British and later Australian rule. â, ê, î, é, ó are vowels. The mark : indicates that the following vowel is nasalised.",
+    "work_lang": "eng_Latn",
+    "task_lang": "['yle_Latn']"
+  },
+  {
+    "id": "12026020200",
+    "pred": "[\"stick / thin person\", \"small\", \"yellow snake\", \"stone\", \"tree\", \"tree trunk\"]",
+    "predicted_items": [
+      "stick / thin person",
+      "small",
+      "yellow snake",
+      "stone",
+      "tree",
+      "tree trunk"
+    ],
+    "target_text": "[[\"banana tree\", \"like (similar to)\"], [\"white cockatoo\"], [\"ripe\"], [\"honey\"], [\"the English language\"], [\"eye\"]]",
+    "eval_type": "multi",
+    "task_type": "translation",
+    "points": 1.0,
+    "split": "public",
+    "scores": {
+      "em": 0.0,
+      "chrf": 0.097366,
+      "item_em": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "item_chrf": [
+        0.087719,
+        0.014837,
+        0.038462,
+        0.286667,
+        0.045402,
+        0.111111
+      ]
+    },
+    "explanation": "### Step-by-step Analysis\n\n#### Example Breakdowns\n\n**Example 1:** `kpêdê`  \nMeaning: \"black\"  \n\n**Example 2:** `kpêdêkpêdê`  \nMeaning: \"completely black\"\n\n**Example 3:** `kpaapî ntóó`\nMeaning: \"small ship\"\n\n**Example 4:** `kpaapî tp:oo`\nMeaning: \"white thing\"\n\n**Example 5:** `nkéli tp:oo`\nMeaning: \"the tree has red leaves\"\n\n**Example 6:** `tpile kpaapîkpaapî`\nMeaning: \"white cockatoo chick\"\n\n**Example 7:** `yi yââ mtyemtye`\nMeaning: \"nut that turns black when roasted\"\n\n**Additional Examples**\n\n**Example 8:** `chêêpî mbwii miyó`\nMeaning: \"sweet honey\"\n\n**Example 9:** `kinikini`\nMeaning: \"chunks of iron\"\n\n**Example 10:** `lîmî k:ii`\nMeaning: \"greasy\"\n\n**Example 11:** `mty:aamty:aa`\nMeaning: \"two thin stones\"\n\n**Example 12:** `mty:aa wee`\nMeaning: \"quickly ('like lightning')\"\n\n**Example 13:** `nkéli chêêpî pââ`\nMeaning: \"European person, foreigner\"\n\n**Example 14:** `nkéli pi`\nMeaning: \"insect\"\n\n**Example 15:** `tpile wee`\nMeaning: \"stick\"\n\n**Example 16:** `yi mbwii`\nMeaning: \"bee\"\n\n**Further Additional Examples**\n\n**Example 17:** `kémi nt:uu`\nMeaning: \"alcoholic drink\"\n\n**Example 18:** `k:ii miyó`\nMeaning: \"thin person\"\n\n**Example 19:** `nkéli mbwaa`\nMeaning: \"green snake\"\n\n**Example 20:** `ngwolo nt:uu`\nMeaning: \"tree trunk\"\n\n**Example 21:** `mbwaa`\nMeaning: \"intestine worm\"\n\n**Example 22:** `mwi pê`\nMeaning: \"corpse\"\n\n**Example 23:** `tpile pê k:ii kîgha nt:uu k:ii`\nMeaning: \"yellow snake\"\n\n**Example 24:** `pi mbwii`\nMeaning: \"eyeball\"\n\n**Example 25:** `pi ntóó`\nMeaning: \"(unripe) mango\"\n\n**Example 26:** `tpile pê yi kuu yââ k:ii`\nMeaning: \"water\"\n\n**Example 27:** `yi pââ`\nMeaning: \"two banana plants\"\n\n---\n\n### Rule Table\n\n| Morpheme/Word | Meaning |\n|---------------|---------|\n| **kpêdê**     | Black   |\n| **ntóó**      | Ship    |\n| **tp:oo**     | White   |\n| **kpaapî**    | Small   |\n| **nkéli**     | Tree    |\n| **tpile**     | Chick   |\n| **yi**        | Nut     |\n| **yââ**       | Turns black when roasted |\n| **mtyemtye**  | Nut that turns black when roasted ...",
+    "has_explanation": true,
+    "n_expected_items": 6,
+    "format": {
+      "empty": false,
+      "clean_json_list": true,
+      "n_items_parsed": 6,
+      "item_count_matches": true
+    },
+    "source": "Translate into English:\n\n28. k:ii (this word has two meanings)\n29. kpaapî\n30. kîgha\n31. mty:aa\n32. nkéli dnye\n33. ngwolo",
+    "context": "Here are some words and phrases in Yélî Dnye and their English translations in arbitrary order:\n\n1. kpêdê\n2. kpêdêkpêdê\n3. kpaapî ntóó\n4. kpaapî tp:oo\n5. nkéli tp:oo\n6. tpile kpaapîkpaapî\n7. yi yââ mtyemtye\n\nA. black\nB. completely white\nC. nut that turns black when roasted\nD. small ship\nE. the tree has red leaves\nF. white thing\nG. white cockatoo chick\n\nBelow are some more words and phrases in Yélî Dnye and their English translations in arbitrary order:\n\n8. chêêpî mbwii miyó\n9. kinikini\n10. lîmî k:ii\n11. mty:aamty:aa\n12. mty:aa wee\n13. nkéli chêêpî pââ\n14. nkéli pi\n15. tpile wee\n16. yi mbwii\n\nH. bee\nI. chunks of iron\nJ. European person, foreigner\nK. greasy\nL. insect\nM. two thin stones\nN. quickly (\"like lightning\")\nO. stick\nP. sweet (adjective)\n\nFinally, below are yet more words and phrases in Yélî Dnye and their English translations in arbitrary order:\n\n17. kémi nt:uu\n18. k:ii miyó\n19. nkéli mbwaa\n20. ngwolo nt:uu\n21. mbwaa\n22. mwi pê\n23. tpile pê k:ii kîgha nt:uu k:ii\n24. pi mbwii\n25. pi ntóó\n26. tpile pê yi kuu yââ k:ii\n27. yi pââ\n\nQ. alcoholic drink\nR. corpse\nS. eyeball\nT. green snake\nU. intestinal worm\nV. thin person\nW. tree trunks\nX. two banana plants\nY. (unripe) mango\nZ. water\nAA. yellow snake\n\nThe Yélî Dnye language (also known as Yele) is currently unclassified and may be a language isolate. It is spoken by approx. 5000 people on Rossel Island, in the south-eastern part of Papua New Guinea. A white cockatoo is a type of bird. The southern part of Papua New Guinea was historically under British and later Australian rule. â, ê, î, é, ó are vowels. The mark : indicates that the following vowel is nasalised.",
+    "work_lang": "eng_Latn",
+    "task_lang": "['yle_Latn']"
+  },
+  {
+    "id": "12026020300",
+    "pred": "[\"yi kuu\", \"pi\", \"wee\", \"ntóó\", \"pi\", \"yi nkelí\", \"nkéli\"]",
+    "predicted_items": [
+      "yi kuu",
+      "pi",
+      "wee",
+      "ntóó",
+      "pi",
+      "yi nkelí",
+      "nkéli"
+    ],
+    "target_text": "[\"tp:oo\", \"yi kuu yââ k:ii\", \"kini\", \"kuu\", \"nt:uu\", \"pi kpêdêkpêdê\", \"Yélî\"]",
+    "eval_type": "single",
+    "task_type": "translation",
+    "points": 1.0,
+    "split": "private",
+    "scores": {
+      "em": 0.0,
+      "chrf": 0.033336,
+      "item_em": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "item_chrf": [
+        0.0,
+        0.017123,
+        0.0,
+        0.0,
+        0.0,
+        0.030303,
+        0.185927
+      ]
+    },
+    "explanation": "Let's start by breaking down the provided examples according to our methodology.\n\n### Step 1 - Breaking Down Examples\n\n#### Example 1: `kpêdê`\nThis seems to refer to \"black\" based on context clues.\n\n#### Example 2: `kpêdêkpêdê`\nGiven the repetition and similarity to 'completely', we can infer this means \"completely black\".\n\n#### Example 3: `kpaapî ntóó`\nBased on the context, this refers to \"small ship\". Here, `ntóó` might indicate size or shape.\n\n#### Example 4: `kpaapî tp:oo`\nRefers to \"white thing\", suggesting `tp:oo` relates to whiteness.\n\n#### Example 5: `nkéli tp:oo`\nTranslates to \"the tree has red leaves\", indicating `nkéli` describes trees having certain characteristics.\n\n#### Example 6: `tpile kpaapîkpaapî`\nMeans \"white cockatoo chick\", where `tpile` probably denotes a specific kind of animal.\n\n#### Example 7: `yi yââ mtyemtye`\nDescribes \"yellow snake\", implying `yi` represents color while `yââ` specifies the species.\n\n---\n\nNext set of examples:\n\n#### Example 8: `chêêpî mbwii miyó`\nInterpreted as \"sweet honeybee\", pointing towards sweetness (`chêêpî`) and bees (`mbwii`).\n\n#### Example 9: `kinikini`\nTranslated as \"chunks of iron\", possibly denoting hardness or density.\n\n#### Example 10: `lîmî k:ii`\nIndicates \"greasy stick\", linking `lîmî` to greasiness.\n\n#### Example 11: `mty:aamty:aa`\nMeaning \"two thin stones\", suggests `mty:` related to quantity or thickness.\n\n#### Example 12: `mty:aa wee`\nDenotes \"quickly ('like lightning')\", inferring `wee` conveys speed.\n\n#### Example 13: `nkéli chêêpî pââ`\nStands for \"European person, foreigner\", indicating `nkéli` also signifies human attributes.\n\n#### Example 14: `tpile wee`\nSignifies \"stick\", reinforcing previous interpretations around `tpile`.\n\n#### Example 15: `yi mbwii`\nRepresents \"insect\", further confirming `yi` as a classifier for living things.\n\n---\n\nFinal set of examples:\n\n#### Example 16: `kémi nt:uu`\nTranslates to \"alcoholic drink\", hinting at `kémi` being associated with beverages.\n\n#### Example 17: `k:ii ...",
+    "has_explanation": true,
+    "n_expected_items": 7,
+    "format": {
+      "empty": false,
+      "clean_json_list": true,
+      "n_items_parsed": 7,
+      "item_count_matches": true
+    },
+    "source": "Translate into Yélî Dnye:\n\nBB. (his) son\nCC. green\nDD. fat, grease\nEE. fresh, raw\nFF. (unripe) fruit\nGG. black person\nHH. Rossel Island",
+    "context": "Here are some words and phrases in Yélî Dnye and their English translations in arbitrary order:\n\n1. kpêdê\n2. kpêdêkpêdê\n3. kpaapî ntóó\n4. kpaapî tp:oo\n5. nkéli tp:oo\n6. tpile kpaapîkpaapî\n7. yi yââ mtyemtye\n\nA. black\nB. completely white\nC. nut that turns black when roasted\nD. small ship\nE. the tree has red leaves\nF. white thing\nG. white cockatoo chick\n\nBelow are some more words and phrases in Yélî Dnye and their English translations in arbitrary order:\n\n8. chêêpî mbwii miyó\n9. kinikini\n10. lîmî k:ii\n11. mty:aamty:aa\n12. mty:aa wee\n13. nkéli chêêpî pââ\n14. nkéli pi\n15. tpile wee\n16. yi mbwii\n\nH. bee\nI. chunks of iron\nJ. European person, foreigner\nK. greasy\nL. insect\nM. two thin stones\nN. quickly (\"like lightning\")\nO. stick\nP. sweet (adjective)\n\nFinally, below are yet more words and phrases in Yélî Dnye and their English translations in arbitrary order:\n\n17. kémi nt:uu\n18. k:ii miyó\n19. nkéli mbwaa\n20. ngwolo nt:uu\n21. mbwaa\n22. mwi pê\n23. tpile pê k:ii kîgha nt:uu k:ii\n24. pi mbwii\n25. pi ntóó\n26. tpile pê yi kuu yââ k:ii\n27. yi pââ\n\nQ. alcoholic drink\nR. corpse\nS. eyeball\nT. green snake\nU. intestinal worm\nV. thin person\nW. tree trunks\nX. two banana plants\nY. (unripe) mango\nZ. water\nAA. yellow snake\n\nThe Yélî Dnye language (also known as Yele) is currently unclassified and may be a language isolate. It is spoken by approx. 5000 people on Rossel Island, in the south-eastern part of Papua New Guinea. A white cockatoo is a type of bird. The southern part of Papua New Guinea was historically under British and later Australian rule. â, ê, î, é, ó are vowels. The mark : indicates that the following vowel is nasalised.",
+    "work_lang": "eng_Latn",
+    "task_lang": "['yle_Latn']"
+  },
+  {
+    "id": "12026020400",
+    "pred": "[\"Let's go through the provided examples systematically to identify patterns related to color expressions in Yélî Dnye.\", \"### Step-by-step Analysis\", \"#### Example Breakdowns\", \"**Example 1:** `kpêdê` - **black**\", \"- Morphemes: `kpê`, `dê`\", \"**Example 2:** `kpêdêkpêdê` - **completely black**\", \"- Morphemes: `kpê`, `dê`, `kpê`, `dê`\", \"**Example 3:** `kpaapî ntóó` - **nut that turns black when roasted**\", \"- Morphemes: `kpaapî`, `ntóó`\", \"**Example 4:** `kpaapî tp:oo` - **small ship**\", \"- Morphemes: `kpaapî`, `tp:oo`\", \"**Example 5:** `nkéli tp:oo` - **the tree has red leaves**\", \"- Morphemes: `nkéli`, `tp:oo`\", \"**Example 6:** `tpile kpaapîkpaapî` - **white thing**\", \"- Morphemes: `tpile`, `kpaapî`, `kpaapî`\", \"**Example 7:** `yi yââ mtyemtye` - **white cockatoo chick**\", \"- Morphemes: `yi`, `yââ`, `mtye`, `mtye`\", \"**Additional Examples**\", \"**Example 8:** `chêêpî mbwii miyó` - **chunks of iron**\", \"- Morphemes: `chêêpî`, `mbwii`, `miyó`\", \"**Example 9:** `kinikini` - **greasy**\", \"- Morphemes: `ki`, `ni`, `ki`, `ni`\", \"**Example 10:** `lîmî k:ii` - **two thin stones**\", \"- Morphemes: `lîmî`, `k:ii`\", \"**Example 11:** `mty:aamty:aa` - **intestine**\", \"- Morphemes: `mty:a`, `mty:aa`\", \"**Example 12:** `mty:aa wee` - **thin person**\", \"- Morphemes: `mty:aa`, `wee`\", \"**Example 13:** `nkéli chêêpî pââ` - **tree trunk**\", \"- Morphemes: `nkéli`, `chêêpî`, `pââ`\", \"**Example 14:** `nkéli pi` - **stick**\", \"- Morphmes: `nkéli`, `pi`\", \"**Example 15:** `tpile wee` - **quickly (\\\"like lightning\\\")**\", \"- Morphemes: `tpile`, `wee`\", \"**Example 16:** `yi mbwii` - **insect**\", \"- Morphemes: `yi`, `mbwii`\", \"**Further Color-related Examples**\", \"**Example 17:** `kémi nt:uu` - **alcoholic drink**\", \"- Morphemes: `kémi`, `nt:uu`\", \"**Example 18:** `k:ii miyó` - **sweet (adjective)**\", \"- Morphemes: `k:ii`, `miyó`\", \"**Example 19:** `nkéli mbwaa` - **green snake**\", \"- Morphemes: `nkéli`, `mbwaa`\", \"**Example 20:** `ngwolo nt:uu` - **corpse**\", \"- Morphemes: `ngwolo`, `nt:uu`\", \"**Example 21:** `mbwaa` - **yellow snake**\", \"- Morphemes: `mbwaa`\", \"**Example 22:** `mwi pê` - **eyeball**\", \"- Morphemes: `mwi`, `pê`\", \"**Example 23:** `tpile pê k:ii kîgha nt:uu k:ii` - **water**\", \"- Morphemes: `tpile`, `pê`, `k:ii`, `kîgha`, `nt:uu`, `k:ii`\", \"**Example 24:** `pi mbwii` - **(unripe) mango**\", \"- Morphemes: `pi`, `mbwii`\", \"**Example 25:** `pi ntóó` - **tree trunks**\", \"- Morphemes: `pi`, `ntóó`\", \"**Example 26:** `tpile pê yi kuu yââ k:ii` - **yellow snake**\", \"- Morphemes: `tpile`, `pê`, `yi`, `kuu`, `yââ`, `k:ii`\", \"**Example 27:** `yi pââ` - **red**\", \"- Morphemes: `yi`, `pââ`\", \"From these breakdowns, we can see several recurring elements associated with colors:\", \"- `yi`: seems to indicate \\\"white\\\" or \\\"light-colored\", \"- `pââ`: seems to indicate \\\"red\", \"Other terms such as `kémi` (for alcohol), `nkéli` (for trees/snakes), etc., appear unrelated directly to color but might modify descriptions involving colors.\", \"### Rule Table Summary\", \"| Word/Phrase | Meaning |\", \"|-------------|---------|\", \"| `kpêdê`     | Black    |\", \"| `kpêdêkpêdê`| Completely black |\", \"| `kpaapî ntóó`| Nut that turns black when roasted |\", \"| `kpaapî tp:oo`| Small ship |\", \"| `nkéli tp:oo`| Tree has red leaves |\", \"| `tpile kpaapîkpaapî`| White thing |\", \"| `yi yââ mtyemtye`| White cockatoo chick |\", \"| `chêêpî mbwii miyó`| Chunks of iron |\", \"| `kinikini`| Greasy |\", \"| `lîmî k:ii`| Two thin stones |\", \"| `mty:aamty:aa`| Intestine |\", \"| `mty:aa wee`| Thin person |\", \"| `nkéli chêêpî pââ`| Green snake |\", \"| `nkéli pi`| Stick |\", \"| `tpile wee`| Quickly (\\\"like lightning\\\") |\", \"| `yi mbwii`| Insect |\", \"| `kémi nt:uu`| Alcoholic drink |\", \"| `k:ii miyó`| Sweet (adjective) |\", \"| `nkéli mbwaa`| Yellow snake |\", \"| `ngwolo nt:uu`| Corpse |\", \"| `mbwaa`| Yellow snake |\", \"| `mwi pê`| Eyeball |\", \"| `tpile pê k:ii kîgha nt:uu k:ii`| Water |\", \"| `pi mbwii`| Unripe mango |\", \"| `pi ntóó`| Tree trunks |\", \"| `tpile pê yi kuu yââ k:ii`| Yellow snake |\", \"| `yi pââ`| Red |\", \"Based on the analysis, the expression of colors in Yélî Dny\"]",
+    "predicted_items": [
+      "Let's go through the provided examples systematically to identify patterns related to color expressions in Yélî Dnye."
+    ],
+    "target_text": "[\"Some colours (black, white, red — the most basic in the colour hierarchy) are formed by reduplication from the name of an animal or plant. Other colours (green, yellow) are expressed through comparison phrases: green = 'like fresh tree leaves', yellow = 'like a ripe banana fruit'.\"]",
+    "eval_type": "single",
+    "task_type": "fill_blanks",
+    "points": 0.0,
+    "split": "private",
+    "scores": {
+      "em": 0.0,
+      "chrf": 0.150251,
+      "item_em": [
+        0.0
+      ],
+      "item_chrf": [
+        0.150251
+      ]
+    },
+    "explanation": "Let's go through the provided examples systematically to identify patterns related to color expressions in Yélî Dnye.\n\n### Step-by-step Analysis\n\n#### Example Breakdowns\n\n**Example 1:** `kpêdê` - **black**\n   - Morphemes: `kpê`, `dê`\n   \n**Example 2:** `kpêdêkpêdê` - **completely black**\n   - Morphemes: `kpê`, `dê`, `kpê`, `dê`\n\n**Example 3:** `kpaapî ntóó` - **nut that turns black when roasted**\n   - Morphemes: `kpaapî`, `ntóó`\n\n**Example 4:** `kpaapî tp:oo` - **small ship**\n   - Morphemes: `kpaapî`, `tp:oo`\n\n**Example 5:** `nkéli tp:oo` - **the tree has red leaves**\n   - Morphemes: `nkéli`, `tp:oo`\n\n**Example 6:** `tpile kpaapîkpaapî` - **white thing**\n   - Morphemes: `tpile`, `kpaapî`, `kpaapî`\n\n**Example 7:** `yi yââ mtyemtye` - **white cockatoo chick**\n   - Morphemes: `yi`, `yââ`, `mtye`, `mtye`\n\n**Additional Examples**\n\n**Example 8:** `chêêpî mbwii miyó` - **chunks of iron**\n   - Morphemes: `chêêpî`, `mbwii`, `miyó`\n\n**Example 9:** `kinikini` - **greasy**\n   - Morphemes: `ki`, `ni`, `ki`, `ni`\n\n**Example 10:** `lîmî k:ii` - **two thin stones**\n   - Morphemes: `lîmî`, `k:ii`\n\n**Example 11:** `mty:aamty:aa` - **intestine**\n   - Morphemes: `mty:a`, `mty:aa`\n\n**Example 12:** `mty:aa wee` - **thin person**\n   - Morphemes: `mty:aa`, `wee`\n\n**Example 13:** `nkéli chêêpî pââ` - **tree trunk**\n   - Morphemes: `nkéli`, `chêêpî`, `pââ`\n\n**Example 14:** `nkéli pi` - **stick**\n   - Morphmes: `nkéli`, `pi`\n\n**Example 15:** `tpile wee` - **quickly (\"like lightning\")**\n   - Morphemes: `tpile`, `wee`\n\n**Example 16:** `yi mbwii` - **insect**\n   - Morphemes: `yi`, `mbwii`\n\n**Further Color-related Examples**\n\n**Example 17:** `kémi nt:uu` - **alcoholic drink**\n   - Morphemes: `kémi`, `nt:uu`\n\n**Example 18:** `k:ii miyó` - **sweet (adjective)**\n   - Morphemes: `k:ii`, `miyó`\n\n**Example 19:** `nkéli mbwaa` - **green snake**\n   - Morphemes: `nkéli`, `mbwaa`\n\n**Example 20:** `ngwolo nt:uu` - **corpse**\n   - Morphemes: `ngwolo`, `nt:uu`\n\n**Example 21:** `mbwaa` - **yellow snake**\n   - ...",
+    "has_explanation": true,
+    "n_expected_items": 1,
+    "format": {
+      "empty": false,
+      "clean_json_list": true,
+      "n_items_parsed": 94,
+      "item_count_matches": false
+    },
+    "source": "Explain how colours are expressed in Yélî Dnye: ____________",
+    "context": "Here are some words and phrases in Yélî Dnye and their English translations in arbitrary order:\n\n1. kpêdê\n2. kpêdêkpêdê\n3. kpaapî ntóó\n4. kpaapî tp:oo\n5. nkéli tp:oo\n6. tpile kpaapîkpaapî\n7. yi yââ mtyemtye\n\nA. black\nB. completely white\nC. nut that turns black when roasted\nD. small ship\nE. the tree has red leaves\nF. white thing\nG. white cockatoo chick\n\nBelow are some more words and phrases in Yélî Dnye and their English translations in arbitrary order:\n\n8. chêêpî mbwii miyó\n9. kinikini\n10. lîmî k:ii\n11. mty:aamty:aa\n12. mty:aa wee\n13. nkéli chêêpî pââ\n14. nkéli pi\n15. tpile wee\n16. yi mbwii\n\nH. bee\nI. chunks of iron\nJ. European person, foreigner\nK. greasy\nL. insect\nM. two thin stones\nN. quickly (\"like lightning\")\nO. stick\nP. sweet (adjective)\n\nFinally, below are yet more words and phrases in Yélî Dnye and their English translations in arbitrary order:\n\n17. kémi nt:uu\n18. k:ii miyó\n19. nkéli mbwaa\n20. ngwolo nt:uu\n21. mbwaa\n22. mwi pê\n23. tpile pê k:ii kîgha nt:uu k:ii\n24. pi mbwii\n25. pi ntóó\n26. tpile pê yi kuu yââ k:ii\n27. yi pââ\n\nQ. alcoholic drink\nR. corpse\nS. eyeball\nT. green snake\nU. intestinal worm\nV. thin person\nW. tree trunks\nX. two banana plants\nY. (unripe) mango\nZ. water\nAA. yellow snake\n\nThe Yélî Dnye language (also known as Yele) is currently unclassified and may be a language isolate. It is spoken by approx. 5000 people on Rossel Island, in the south-eastern part of Papua New Guinea. A white cockatoo is a type of bird. The southern part of Papua New Guinea was historically under British and later Australian rule. â, ê, î, é, ó are vowels. The mark : indicates that the following vowel is nasalised.",
+    "work_lang": "eng_Latn",
+    "task_lang": "['yle_Latn']"
+  },
+  {
+    "id": "12026020500",
+    "pred": "[\"II\", \"NN\", \"MM\", \"KK\", \"LL\", \"JJ\"]",
+    "predicted_items": [
+      "II",
+      "NN",
+      "MM",
+      "KK",
+      "LL",
+      "JJ"
+    ],
+    "target_text": "[\"MM\", \"JJ\", \"NN\", \"LL\", \"KK\", \"II\"]",
+    "eval_type": "single",
+    "task_type": "match_letters",
+    "points": 1.0,
+    "split": "public",
+    "scores": {
+      "em": 0.0,
+      "chrf": 0.0,
+      "item_em": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "item_chrf": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "explanation": "### Step-by-step Analysis\n\n#### Example Breakdowns\n\n**Example 1:** `kpêdê`  \nMeaning: \"black\"  \n\n**Example 2:** `kpêdêkpêdê`  \nMeaning: \"completely black\"\n\n**Example 3:** `kpaapî ntóó`\nMeaning: \"small ship\"\n- **ntóó**: Ship\n- **kpaapî**: Small\n\n**Example 4:** `kpaapî tp:oo`\nMeaning: \"nut that turns black when roasted\"\n- **tp:oo**: Nut that turns black when roasted\n\n**Example 5:** `nkéli tp:oo`\nMeaning: \"the tree has red leaves\"\n- **nkéli**: Tree\n- **tp:oo**: Red Leaves\n\n**Example 6:** `tpile kpaapîkpaapî`\nMeaning: \"white thing\"\n- **tpile**: White\n- **kpaapîkpaapî**: Thing\n\n**Example 7:** `yi yââ mtyemtye`\nMeaning: \"white cockatoo chick\"\n- **yi**: Cockatoo\n- **yââ**: White\n- **mtyemtye**: Chick\n\n**Example 8:** `chêêpî mbwii miyó`\nMeaning: \"chunks of iron\"\n- **mbwii**: Iron\n- **miyó**: Chunks\n\n**Example 9:** `kinikini`\nMeaning: \"greasy\"\n\n**Example 10:** `lîmî k:ii`\nMeaning: \"two thin stones\"\n- **lîmî**: Two\n- **k:ii**: Thin Stones\n\n**Example 11:** `mty:aamty:aa`\nMeaning: \"European person, foreigner\"\n- **mty:aamty:aa**: Foreigner/European Person\n\n**Example 12:** `mty:aa wee`\nMeaning: \"quickly ('like lightning')\"\n- **wee**: Quickly/Like Lightning\n\n**Example 13:** `nkéli chêêpî pââ`\nMeaning: \"tree trunk\"\n- **nkéli**: Tree Trunk\n- **chêêpî**: Trunk\n\n**Example 14:** `nkéli pi`\nMeaning: \"(unripe) mango\"\n- **pi**: Unripe Mango\n\n**Example 15:** `tpile wee`\nMeaning: \"sweet (adjective)\"\n- **tpile**: Sweet\n\n**Example 16:** `yi mbwii`\nMeaning: \"bee\"\n- **yi**: Bee\n\n**Example 17:** `kémi nt:uu`\nMeaning: \"alcoholic drink\"\n- **kémi**: Alcoholic Drink\n\n**Example 18:** `k:ii miyó`\nMeaning: \"stick\"\n- **k:ii**: Stick\n\n**Example 19:** `nkéli mbwaa`\nMeaning: \"corpse\"\n- **nkéli**: Corpse\n\n**Example 20:** `ngwolo nt:uu`\nMeaning: \"intestine\"\n- **ngwolo**: Intestine\n\n**Example 21:** `mbwaa`\nMeaning: \"intestinal worm\"\n- **mbwaa**: Worm\n\n**Example 22:** `mwi pê`\nMeaning: \"thin person\"\n- **mwi**: Thin\n- **pê**: Person\n\n**Example 23:** `tpile pê k:ii kîgha nt:uu k:ii`\nMeaning: \"water\"\n- **tpile ...",
+    "has_explanation": true,
+    "n_expected_items": 6,
+    "format": {
+      "empty": false,
+      "clean_json_list": true,
+      "n_items_parsed": 6,
+      "item_count_matches": true
+    },
+    "source": "Match the following Yélî Dnye words with the pictures below, knowing that nté ≈ k:ii. The pictures cannot be reproduced here, so each one is given below as an English description of the picture:\n\n34. kpaapî tp:oo kpaapî tp:oo\n35. mbóó\n36. mbóó nté\n37. mbóó p:uu nkéli\n38. mtye\n39. pê pê\n\nII. millipede\nJJ. sky\nKK. red parrot\nLL. plane\nMM. young humphead wrasse\nNN. (light) blue rectangle",
+    "context": "Here are some words and phrases in Yélî Dnye and their English translations in arbitrary order:\n\n1. kpêdê\n2. kpêdêkpêdê\n3. kpaapî ntóó\n4. kpaapî tp:oo\n5. nkéli tp:oo\n6. tpile kpaapîkpaapî\n7. yi yââ mtyemtye\n\nA. black\nB. completely white\nC. nut that turns black when roasted\nD. small ship\nE. the tree has red leaves\nF. white thing\nG. white cockatoo chick\n\nBelow are some more words and phrases in Yélî Dnye and their English translations in arbitrary order:\n\n8. chêêpî mbwii miyó\n9. kinikini\n10. lîmî k:ii\n11. mty:aamty:aa\n12. mty:aa wee\n13. nkéli chêêpî pââ\n14. nkéli pi\n15. tpile wee\n16. yi mbwii\n\nH. bee\nI. chunks of iron\nJ. European person, foreigner\nK. greasy\nL. insect\nM. two thin stones\nN. quickly (\"like lightning\")\nO. stick\nP. sweet (adjective)\n\nFinally, below are yet more words and phrases in Yélî Dnye and their English translations in arbitrary order:\n\n17. kémi nt:uu\n18. k:ii miyó\n19. nkéli mbwaa\n20. ngwolo nt:uu\n21. mbwaa\n22. mwi pê\n23. tpile pê k:ii kîgha nt:uu k:ii\n24. pi mbwii\n25. pi ntóó\n26. tpile pê yi kuu yââ k:ii\n27. yi pââ\n\nQ. alcoholic drink\nR. corpse\nS. eyeball\nT. green snake\nU. intestinal worm\nV. thin person\nW. tree trunks\nX. two banana plants\nY. (unripe) mango\nZ. water\nAA. yellow snake\n\nThe Yélî Dnye language (also known as Yele) is currently unclassified and may be a language isolate. It is spoken by approx. 5000 people on Rossel Island, in the south-eastern part of Papua New Guinea. A white cockatoo is a type of bird. The southern part of Papua New Guinea was historically under British and later Australian rule. â, ê, î, é, ó are vowels. The mark : indicates that the following vowel is nasalised.",
+    "work_lang": "eng_Latn",
+    "task_lang": "['yle_Latn']"
+  },
+  {
+    "id": "12026030100",
+    "pred": "[\"you will visit the animal of the teacher\", \"they will see Leo the fish\", \"I will sell the animal of the book\", \"I will care for the children of the man\"]",
+    "predicted_items": [
+      "you will visit the animal of the teacher",
+      "they will see Leo the fish",
+      "I will sell the animal of the book",
+      "I will care for the children of the man"
+    ],
+    "target_text": "[[\"You will visit these teachers of the woman.\"], [\"They saw Leo's fish.\"], [\"I will sell this canoe of the woman.\", \"I will sell this woman the canoe.\"], [\"I will care for these children of this man.\"]]",
+    "eval_type": "multi",
+    "task_type": "translation",
+    "points": 1.0,
+    "split": "private",
+    "scores": {
+      "em": 0.0,
+      "chrf": 0.550169,
+      "item_em": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "item_chrf": [
+        0.651468,
+        0.290165,
+        0.487994,
+        0.77105
+      ]
+    },
+    "explanation": "### Step-by-step Analysis\n\n#### Sentence Breakdown:\n\n**Sentence 1:** \nima paapaaja masɨɨtɨɨrɨɨ -> \"Ema will sell the fish\" \n\n**Sentence 2:** \nnu=iina isikɨrɨɨ iiyɨɨ -> \"They will break this rope\"\n\n**Sentence 3:** \nki=iita masɨɨtɨɨrɨɨ Jaime / ki=Jaime masɨɨtɨɨrɨɨ iita -> \"I will sell Jaime the house.\"\n\n**Sentence 4:** \nnu=naajuukura simiimɨ -> \"They wrote the book.\"\n\n**Sentence 5:** \nki=iina masɨɨrɨɨ ikwani saawiri -> \"I will buy this machete of the man.\" \n\n**Sentence 6:** \nki=iipɨ asuraaja sakɨɨrɨɨ mɨra -> \"I will chew the manioc of these children.\"\n\n**Sentence 7:** \nLeo iipɨ siwɨɨrarɨɨ ikwaniwɨya -> \"Leo will visit these men.\"\n\n**Sentence 8:** \nkia=Leo iita irikatajuurɨɨ -> \"You will repair Leo’s house.\"\n\n**Sentence 9:** \nki=simiitakura iimi simiimɨya -> \"I read these books.\"\n\n**Sentence 10:** \nnu=iimi irikatajuurɨɨ iiminaka -> \"They will repair these canoes.\"\n\n**Sentence 11:** \nkia=kariiniikura mɨɨsaji kajinani -> \"You cared for the animal of the woman.\"\n\n**Sentence 12:** \nki=simiitakura iina simiimɨ paajuuyaana -> \"I read the book of this teacher.\"\n\n**Sentence 13:** \nnu=paapaaja miitɨɨrɨɨ iina ikwani / nu=iina miitɨɨrɨɨ ikwani paapaaja -> \"They will give this man the fish.\"\n\n**Sentence 14:** \nki=nikikura iipɨ kaajiya iitimɨra -> \"I saw the animals of these women.\"\n\n**Sentence 15:** \nkia=iina simiimɨya simiitarɨɨ maaya -> \"You will read the books of this child.\"\n\n**Sentence 16:** \nkia=iina masɨɨtɨɨrɨɨ simiimɨ paajuuyaana / kia=paajuuyaana masɨɨtɨɨrɨɨ iina simiimɨ -> \"You will sell the teacher this book.\"\n\n---\n\n### Rule Table\n\n| Morpheme/Word        | Meaning                                                                 |\n|----------------------|-------------------------------------------------------------------------|\n| ima                  | ema                                                                     |\n| nu                   | they                                                                    |\n| ki                   | I                        ...",
+    "has_explanation": true,
+    "n_expected_items": 4,
+    "format": {
+      "empty": false,
+      "clean_json_list": true,
+      "n_items_parsed": 4,
+      "item_count_matches": true
+    },
+    "source": "Translate the following sentences into English. Give more than one translation where possible.\n\n17. kia=iipɨ siwɨɨrarɨɨ mɨɨsaji paajuuyaapɨ\n18. nu=nikikura Leo paapaaja\n19. ki=iina masɨɨtɨɨrɨɨ mɨɨsaji iimina\n20. ki=iipɨ kariiniirɨɨ iina mɨra ikwani",
+    "context": "Here are some sentences in Iquito and their English translations. Where more than one Iquito sentence corresponds to a single English translation, all possible Iquito sentences are given.\n\n1. Ima paapaaja masɨɨtɨɨrɨɨ | Ema will sell the fish (singular).\n2. nu=iina isikɨrɨɨ iiyɨɨ | They will break this rope.\n3. ki=iita masɨɨtɨɨrɨɨ Jaime / ki=Jaime masɨɨtɨɨrɨɨ iita | I will sell Jaime the house.\n4. nu=naajuukura simiimɨ | They wrote the book.\n5. ki=iina masɨɨrɨɨ ikwani saawiri | I will buy this machete of the man.¹\n6. ki=iipɨ asuraaja sakɨɨrɨɨ mɨra | I will chew the manioc of these children.\n7. Leo iipɨ siwɨɨrarɨɨ ikwaniwɨya | Leo will visit these men.\n8. kia=Leo iita irikatajuurɨɨ | You will repair Leo's house.\n9. ki=simiitakura iimi simiimɨya | I read (past) these books.\n10. nu=iimi irikatajuurɨɨ iiminaka | They will repair these canoes.\n11. kia=kariiniikura mɨɨsaji kajinani | You cared for the animal of the woman.\n12. ki=simiitakura iina simiimɨ paajuuyaana | I read (past) the book of this teacher.\n13. nu=paapaaja miitɨɨrɨɨ iina ikwani / nu=iina miitɨɨrɨɨ ikwani paapaaja | They will give this man the fish (singular).\n14. ki=nikikura iipɨ kaajiya iitimɨra | I saw the animals of these women.\n15. kia=iina simiimɨya simiitarɨɨ maaya | You will read the books of this child.\n16. kia=iina masɨɨtɨɨrɨɨ simiimɨ paajuuyaana / kia=paajuuyaana masɨɨtɨɨrɨɨ iina simiimɨ | You will sell the teacher this book.\n\n¹ i.e., the man has multiple machetes, and I will buy this one.\n\nIn this problem, you is a singular pronoun, and they is a gender-neutral singular pronoun. The Iquito language belongs to the Zaparoan family. It is spoken by fewer than 100 people in the Peruvian Amazon. ɨ is a vowel. j = h in hello. The mark = is used to separate two parts of a word. The Iquito language has tones, but for simplicity they are omitted in this problem. Ema, Jaime and Leo are people's names.",
+    "work_lang": "eng_Latn",
+    "task_lang": "['iqu_Latn']"
+  },
+  {
+    "id": "12026030200",
+    "pred": "[\"### Step-by-step Analysis\", \"#### Example Breakdown:\", \"**Example 1:**\", \"ima paapaaja masɨɨtɨɨrɨɨ | Ema will sell the fish (singular).\", \"* **Morphemes**: ima (I), paapaaja (will sell), masɨɨtɨɨrɨɨ (the fish)\"]",
+    "predicted_items": [
+      "### Step-by-step Analysis",
+      "#### Example Breakdown:",
+      "**Example 1:**",
+      "ima paapaaja masɨɨtɨɨrɨɨ | Ema will sell the fish (singular).",
+      "* **Morphemes**: ima (I), paapaaja (will sell), masɨɨtɨɨrɨɨ (the fish)"
+    ],
+    "target_text": "[[\"kia=masɨɨkura iipɨ iiminaka mɨra\"], [\"kia=paajuuyaana iiyɨɨ isikɨrɨɨ\"], [\"ki=iipɨ iita masɨɨrɨɨ iitimɨra\"], [\"nu=iimi masɨɨtɨɨrɨɨ simiimɨya Ima\", \"nu=Ima masɨɨtɨɨrɨɨ iimi simiimɨya\"], [\"ki=iina irikatajuurɨɨ iipɨ iimina ikwaniwɨya\"]]",
+    "eval_type": "multi",
+    "task_type": "translation",
+    "points": 1.0,
+    "split": "public",
+    "scores": {
+      "em": 0.0,
+      "chrf": 0.115577,
+      "item_em": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "item_chrf": [
+        0.04219,
+        0.037594,
+        0.027846,
+        0.371687,
+        0.098567
+      ]
+    },
+    "explanation": "### Step-by-step Analysis\n\n#### Example Breakdown:\n\n**Example 1:** \nima paapaaja masɨɨtɨɨrɨɨ | Ema will sell the fish (singular).\n\n* **Morphemes**: ima (I), paapaaja (will sell), masɨɨtɨɨrɨɨ (the fish)\n* **Meaning**: \"Ema\" implies a subject name; \"masɨɨtɨɨrɨɨ\" indicates a specific object being sold (\"fish\").\n\n**Example 2:** \nnu=iina isikɨrɨɨ iiyɨɨ | They will break this rope.\n\n* **Morphemes**: nu= (they), iina (this), isikɨrɨɨ (break), iiyɨɨ (rope)\n\n**Example 3:** \nki=iita masɨɨtɨɨrɨɨ Jaime / ki=Jaime masɨɨtɨɨrɨɨ iita | I will sell Jaime the house.\n\n* **Morphemes**: ki= (I), iita (house), masɨɨtɨɨrɨɨ (sell), Jaime (name); alternative ordering shows flexibility in placement of named entities.\n\n**Example 4:** \nnu=naajuukura simiimɨ | They wrote the book.\n\n* **Morphemes**: nu= (they), naajuukura (write), simiimɨ (book)\n\n**Example 5:** \nki=iina masɨɨrɨɨ ikwani saawiri | I will buy this machete of the man.\n\n* **Morphemes**: ki= (I), iina (buy), masɨɨrɨɨ (machete), ikwani (man’s), saawiri (specific machete)\n\n**Example 6:** \nki=iipɨ asuraaja sakɨɨrɨɨ mɨra | I will chew the manioc of these children.\n\n* **Morphemes**: ki= (I), iipɨ (children), asuraaja (chew), sakɨɨrɨɨ (mango/manioc), mɨra (these)\n\n**Example 7:** \nLeo iipɨ siwɨɨrarɨɨ ikwaniwɨya | Leo will visit these men.\n\n* **Morphemes**: Leo (name), iipɨ (men), siwɨɨrarɨɨ (visit), ikwaniwɨya (these)\n\n**Example 8:** \nkia=Leo iita irikatajuurɨɨ | You will repair Leo's house.\n\n* **Morphemes**: kia= (you), Leo (name), iita (house), irikatajuurɨɨ (repair)\n\n**Example 9:** \nki=simiitakura iimi simiimɨya | I read (past) these books.\n\n* **Morphemes**: ki= (I), simiitakura (read past), iimi (books), simiimɨya (these)\n\n**Example 10:** \nnu=naajuukura simiimɨya simiimarɨɨ iiminaka | They repaired these canoes.\n\n* **Morphemes**: nu= (they), naajuukura (repaired), simiimɨya (canoes), simiimarɨɨ (these)\n\n**Example 11:** \nkia=kariiniikura mɨɨsaji kajinani | You cared for the animal of the woman.\n\n* **Morphemes**: kia= (you), kariiniikura ...",
+    "has_explanation": true,
+    "n_expected_items": 5,
+    "format": {
+      "empty": false,
+      "clean_json_list": true,
+      "n_items_parsed": 5,
+      "item_count_matches": true
+    },
+    "source": "Translate the following sentences into Iquito. Give more than one translation where possible.\n\n21. You bought the canoes of these children.\n22. You will break the rope of the teacher.\n23. I will buy the house of these women.\n24. They will sell Ema these books.\n25. I will repair this canoe of these men.",
+    "context": "Here are some sentences in Iquito and their English translations. Where more than one Iquito sentence corresponds to a single English translation, all possible Iquito sentences are given.\n\n1. Ima paapaaja masɨɨtɨɨrɨɨ | Ema will sell the fish (singular).\n2. nu=iina isikɨrɨɨ iiyɨɨ | They will break this rope.\n3. ki=iita masɨɨtɨɨrɨɨ Jaime / ki=Jaime masɨɨtɨɨrɨɨ iita | I will sell Jaime the house.\n4. nu=naajuukura simiimɨ | They wrote the book.\n5. ki=iina masɨɨrɨɨ ikwani saawiri | I will buy this machete of the man.¹\n6. ki=iipɨ asuraaja sakɨɨrɨɨ mɨra | I will chew the manioc of these children.\n7. Leo iipɨ siwɨɨrarɨɨ ikwaniwɨya | Leo will visit these men.\n8. kia=Leo iita irikatajuurɨɨ | You will repair Leo's house.\n9. ki=simiitakura iimi simiimɨya | I read (past) these books.\n10. nu=iimi irikatajuurɨɨ iiminaka | They will repair these canoes.\n11. kia=kariiniikura mɨɨsaji kajinani | You cared for the animal of the woman.\n12. ki=simiitakura iina simiimɨ paajuuyaana | I read (past) the book of this teacher.\n13. nu=paapaaja miitɨɨrɨɨ iina ikwani / nu=iina miitɨɨrɨɨ ikwani paapaaja | They will give this man the fish (singular).\n14. ki=nikikura iipɨ kaajiya iitimɨra | I saw the animals of these women.\n15. kia=iina simiimɨya simiitarɨɨ maaya | You will read the books of this child.\n16. kia=iina masɨɨtɨɨrɨɨ simiimɨ paajuuyaana / kia=paajuuyaana masɨɨtɨɨrɨɨ iina simiimɨ | You will sell the teacher this book.\n\n¹ i.e., the man has multiple machetes, and I will buy this one.\n\nIn this problem, you is a singular pronoun, and they is a gender-neutral singular pronoun. The Iquito language belongs to the Zaparoan family. It is spoken by fewer than 100 people in the Peruvian Amazon. ɨ is a vowel. j = h in hello. The mark = is used to separate two parts of a word. The Iquito language has tones, but for simplicity they are omitted in this problem. Ema, Jaime and Leo are people's names.",
+    "work_lang": "eng_Latn",
+    "task_lang": "['iqu_Latn']"
+  },
+  {
+    "id": "12026040100",
+    "pred": "[\"```plaintext\", \"1:A\", \"2:B\", \"3:C\", \"4:D\", \"5:E\", \"6:F\", \"7:G\", \"8:H\", \"9:I\", \"10:J\", \"```\"]",
+    "predicted_items": [
+      "```plaintext",
+      "1:A",
+      "2:B",
+      "3:C",
+      "4:D",
+      "5:E",
+      "6:F",
+      "7:G",
+      "8:H",
+      "9:I"
+    ],
+    "target_text": "[\"G\", \"B\", \"A\", \"H\", \"I\", \"F\", \"C\", \"J\", \"E\", \"D\"]",
+    "eval_type": "single",
+    "task_type": "match_letters",
+    "points": 1.0,
+    "split": "public",
+    "scores": {
+      "em": 0.0,
+      "chrf": 0.0,
+      "item_em": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "item_chrf": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "explanation": "To identify who corresponds to whom among the family members labeled A-J and those labeled numerically, we need to analyze the relationship terms used in the provided sentences. Let's break down the key information based on familial relations described using specific terms.\n\n### Step-by-step Analysis\n\n#### Speaker: Elias\n- **Phrases**: \n  - `A otak`: A is his son/daughter\n  - `H otaup`: H is his grandson/granddaughter\n\n#### Speaker: Luzia\n- **Phrase**:\n  - `B omẽpit`: B is her daughter-in-law\n\n#### Speaker: Boni\n- **Phrase**:\n  - `J okip`: J is his wife\n\n#### Speaker: Rosalina\n- **Phrase**:\n  - `A ãsi`: A is her husband\n\nFrom the above, we see that:\n- A is both Elias' child and Rosalina’s husband.\n- J is both Boni’s wife and possibly someone else's daughter-in-law or granddaughter.\n\nLet's continue analyzing the remaining statements to find matches between individuals.\n\n#### Speaker: A\n- **Phrases**:\n  - `Luzia ãsi`: Luzia is his mother-in-law\n  - `Rosalina omẽpit`: Rosalina is his sister-in-law\n  - `B okwa`: B is his brother-in-law\n  - `D okwa tak`: D is his cousin\n  - `E okwa taup`: E is his nephew/niece\n  - `F oykey mepit`: F is his uncle/aunt\n  - `G oykey`: G is his father\n  - `I ...`\n\n#### Speaker: B\n- **Phrases**:\n  - `Rosalina omãykut`: Rosalina is his aunt\n  - `A okoypet`: A is his brother\n  - `D otak`: D is his niece/nephew\n  - `E otaup`: E is his grandchild\n  - `I omãykut`: I is his aunt\n\n#### Speaker: C\n- **Phrases**:\n  - `I okoypet`: I is his sister\n  - `G ãsi`: G is his mother\n\n#### Speaker: D\n- **Phrases**:\n  - `Ros...`: Missing phrase indicating relation to Rosalina\n  - `F okwa`: F is his uncle/aunt\n  - `I okupi`: I is his grandmother\n\n#### Speaker: E\n- **Phrases**:\n  - `C okip`: C is his wife\n  - `D ...`: Missing phrase indicating relation to D\n  - `J oyke`: J is his sister-in-law\n\n#### Speaker: F\n- **Phrases**:\n  - `C ...`: Missing phrase indicating relation to C\n  - `E okip`: E is his wife\n  - `G ãsi`: G is his mother\n  - `I okoypet`: I is his ...",
+    "has_explanation": true,
+    "n_expected_items": 10,
+    "format": {
+      "empty": false,
+      "clean_json_list": true,
+      "n_items_parsed": 12,
+      "item_count_matches": false
+    },
+    "source": "Match numbers (1–10) with family members (A–J).",
+    "context": "Here is the family tree of a family of Sakurabiat speakers. In the tree, siblings appear from oldest to youngest, from left to right. (□: man  ○: woman  ∩: siblings  —: marriage  |: sons and daughters.) Because the tree is a diagram, it is given below in JSON instead:\n\n[\n  {\n    \"id\": \"Elias\",\n    \"name\": \"Elias\",\n    \"gender\": \"man\",\n    \"spouse_id\": \"Luzia\",\n    \"children_ids\": [\n      \"1\",\n      \"2\",\n      \"3\",\n      \"4\"\n    ]\n  },\n  {\n    \"id\": \"Luzia\",\n    \"name\": \"Luzia\",\n    \"gender\": \"woman\",\n    \"spouse_id\": \"Elias\",\n    \"children_ids\": [\n      \"1\",\n      \"2\",\n      \"3\",\n      \"4\"\n    ]\n  },\n  {\n    \"id\": \"1\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"father_id\": \"Elias\",\n    \"mother_id\": \"Luzia\",\n    \"spouse_id\": \"spouse_of_1\",\n    \"children_ids\": [\n      \"5\",\n      \"6\",\n      \"7\"\n    ],\n    \"sibling_ids\": [\n      \"2\",\n      \"3\",\n      \"4\"\n    ],\n    \"siblings_younger\": [\n      \"2\",\n      \"3\",\n      \"4\"\n    ]\n  },\n  {\n    \"id\": \"2\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"Elias\",\n    \"mother_id\": \"Luzia\",\n    \"spouse_id\": \"spouse_of_2\",\n    \"children_ids\": [\n      \"8\",\n      \"9\"\n    ],\n    \"sibling_ids\": [\n      \"1\",\n      \"3\",\n      \"4\"\n    ],\n    \"siblings_older\": [\n      \"1\"\n    ],\n    \"siblings_younger\": [\n      \"3\",\n      \"4\"\n    ]\n  },\n  {\n    \"id\": \"3\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"father_id\": \"Elias\",\n    \"mother_id\": \"Luzia\",\n    \"spouse_id\": \"spouse_of_3\",\n    \"children_ids\": [\n      \"Boni\",\n      \"Rosalina\"\n    ],\n    \"sibling_ids\": [\n      \"1\",\n      \"2\",\n      \"4\"\n    ],\n    \"siblings_older\": [\n      \"1\",\n      \"2\"\n    ],\n    \"siblings_younger\": [\n      \"4\"\n    ]\n  },\n  {\n    \"id\": \"4\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"Elias\",\n    \"mother_id\": \"Luzia\",\n    \"spouse_id\": \"spouse_of_4\",\n    \"children_ids\": [\n      \"10\"\n    ],\n    \"sibling_ids\": [\n      \"1\",\n      \"2\",\n      \"3\"\n    ],\n    \"siblings_older\": [\n      \"1\",\n      \"2\",\n      \"3\"\n    ]\n  },\n  {\n    \"id\": \"spouse_of_1\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"spouse_id\": \"1\",\n    \"children_ids\": [\n      \"5\",\n      \"6\",\n      \"7\"\n    ]\n  },\n  {\n    \"id\": \"spouse_of_2\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"spouse_id\": \"2\",\n    \"children_ids\": [\n      \"8\",\n      \"9\"\n    ]\n  },\n  {\n    \"id\": \"spouse_of_3\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"spouse_id\": \"3\",\n    \"children_ids\": [\n      \"Boni\",\n      \"Rosalina\"\n    ]\n  },\n  {\n    \"id\": \"spouse_of_4\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"spouse_id\": \"4\",\n    \"children_ids\": [\n      \"10\"\n    ]\n  },\n  {\n    \"id\": \"5\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"father_id\": \"spouse_of_1\",\n    \"mother_id\": \"1\",\n    \"sibling_ids\": [\n      \"6\",\n      \"7\"\n    ],\n    \"siblings_younger\": [\n      \"6\",\n      \"7\"\n    ]\n  },\n  {\n    \"id\": \"6\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"spouse_of_1\",\n    \"mother_id\": \"1\",\n    \"sibling_ids\": [\n      \"5\",\n      \"7\"\n    ],\n    \"siblings_older\": [\n      \"5\"\n    ],\n    \"siblings_younger\": [\n      \"7\"\n    ]\n  },\n  {\n    \"id\": \"7\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"spouse_of_1\",\n    \"mother_id\": \"1\",\n    \"sibling_ids\": [\n      \"5\",\n      \"6\"\n    ],\n    \"siblings_older\": [\n      \"5\",\n      \"6\"\n    ]\n  },\n  {\n    \"id\": \"8\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"2\",\n    \"mother_id\": \"spouse_of_2\",\n    \"sibling_ids\": [\n      \"9\"\n    ],\n    \"siblings_younger\": [\n      \"9\"\n    ]\n  },\n  {\n    \"id\": \"9\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"2\",\n    \"mother_id\": \"spouse_of_2\",\n    \"sibling_ids\": [\n      \"8\"\n    ],\n    \"siblings_older\": [\n      \"8\"\n    ]\n  },\n  {\n    \"id\": \"Boni\",\n    \"name\": \"Boni\",\n    \"gender\": \"man\",\n    \"father_id\": \"spouse_of_3\",\n    \"mother_id\": \"3\",\n    \"sibling_ids\": [\n      \"Rosalina\"\n    ],\n    \"siblings_younger\": [\n      \"Rosalina\"\n    ]\n  },\n  {\n    \"id\": \"Rosalina\",\n    \"name\": \"Rosalina\",\n    \"gender\": \"woman\",\n    \"father_id\": \"spouse_of_3\",\n    \"mother_id\": \"3\",\n    \"sibling_ids\": [\n      \"Boni\"\n    ],\n    \"siblings_older\": [\n      \"Boni\"\n    ]\n  },\n  {\n    \"id\": \"10\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"father_id\": \"4\",\n    \"mother_id\": \"spouse_of_4\"\n  }\n]\n\nThe names of four family members are given: the eldest couple (Elias and Luzia) and the two eldest people (Boni and Rosalina) from the youngest generation. Some other family members are identified below by letters (A–J) and represented on the tree by numbers (1–10), not necessarily in this order. People marked in grey do not appear in this problem; in the JSON these are the married-in spouses, shown with id \"spouse_of_N\".\n\nNow observe some of the phrases that these people can say to describe their family relationships. In each row, the speaker is indicated to the left of the colon, and the phrases spoken by this person are to the right of the colon. For example, G: Elias abitop means that G is saying \"Elias is abitop = my …\".\n\nElias: A otak; H otaup\nLuzia: B omẽpit\nBoni: J okip\nRosalina: A ãsi\nA: Luzia ãsi; Rosalina omẽpit; B okwa; D okwa tak; E okwa taup; F oykey mẽpit; G oykey; I …(i)\nB: Rosalina omãykut; A okoypet; D otak; E otaup; I omãykut\nC: I okoypet; G ãsi\nD: Rosalina …(ii); F okwa; I okupi\nE: C okip; D …(iii); J oyke\nF: C …(iv); E okip; G ãsi; I okoypet\nG: Elias abitop; Boni okupi mẽpit; A okupi; B …(v); E okwa taup; F omẽpit; I omẽpit\nH: Elias abitop; B oyke; C omãykut; D …(vi); E otaup\nI: F okwa; G ãsi\nJ: B abitop; F oyke; I okoypet\n\nThe Sakurabiat language belongs to the Tuparian branch of the Tupian family. It is spoken by approx. 13 people in the Brazilian Amazon rainforest, close to the border with Bolivia. u ≈ oo in goose but with the lips unrounded. The mark ˜ indicates a nasal vowel.",
+    "work_lang": "eng_Latn",
+    "task_lang": "['skf_Latn']"
+  },
+  {
+    "id": "12026040200",
+    "pred": "[\"5\", \"6\", \"7\", \"8\", \"9\", \"10\"]",
+    "predicted_items": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "target_text": "[\"10\", \"5\", \"6\", \"8\", \"9\", \"7\"]",
+    "eval_type": "single",
+    "task_type": "fill_blanks",
+    "points": 1.0,
+    "split": "private",
+    "scores": {
+      "em": 0.333333,
+      "chrf": 0.333333,
+      "item_em": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "item_chrf": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ]
+    },
+    "explanation": "To determine the birth order of family members 5-10 based on the provided information, we need to analyze the relationship terms used in the phrases and map those back to the individuals mentioned in the family tree.\n\n### Step-by-step Analysis:\n\n#### Relationship Terms Identified:\nFrom the phrases provided, let's identify key relationship terms and how they relate to specific roles within the family structure:\n\n- **otak**: father\n- **otaup**: mother\n- **omẽpit**: sister\n- **okwa**: brother\n- **okip**: son\n- **oyke**: daughter\n- **omãykut**: aunt\n- **okoypet**: uncle\n- **ãsi**: wife\n- **abitop**: husband\n\nUsing these definitions, we can infer the following relationships:\n\n- **Elias** refers to his children using `otak` and `otaup`, indicating he uses these terms for his male and female offspring respectively.\n- **Luzia** also refers to her children similarly, confirming she uses `omẽpit` for sisters and `okwa` for brothers.\n- **Boni** calls someone `okip`, suggesting he identifies himself as a son relative to this individual.\n- **Rosalina** calls someone `ãsi`, implying she sees herself as a wife relative to this individual.\n\nGiven the context clues from the sentences where each term is used, we can deduce the familial relations between the unnamed individuals (A-J).\n\nLet’s break down the relationships further:\n\n- **A:** Refers to both Luzia (`ãsi`) and another person (`okwa`). This suggests A is either Luzia's child or spouse.\n- **B:** Calls Rosalina `omãykut`. Since Rosalina is already defined as a sibling, B must refer to Rosalina as an aunt, placing B older than Rosalina.\n- **C:** Uses `okwa` when referring to others, indicating C might be a brother figure.\n- **D:** Also uses `okwa` and mentions `tak` and `taup`.\n- **E:** Identifies himself as a son (`okip`) to someone who is referred to as `okwa`.\n\nBy cross-referencing all statements, we find:\n\n- **A** is most likely **#1**, since #1 is described multiple times as having younger siblings.\n- **B** corresponds to ...",
+    "has_explanation": true,
+    "n_expected_items": 6,
+    "format": {
+      "empty": false,
+      "clean_json_list": true,
+      "n_items_parsed": 6,
+      "item_count_matches": true
+    },
+    "source": "Indicate the birth order of family members (5–10), listing them from oldest to youngest.",
+    "context": "Here is the family tree of a family of Sakurabiat speakers. In the tree, siblings appear from oldest to youngest, from left to right. (□: man  ○: woman  ∩: siblings  —: marriage  |: sons and daughters.) Because the tree is a diagram, it is given below in JSON instead:\n\n[\n  {\n    \"id\": \"Elias\",\n    \"name\": \"Elias\",\n    \"gender\": \"man\",\n    \"spouse_id\": \"Luzia\",\n    \"children_ids\": [\n      \"1\",\n      \"2\",\n      \"3\",\n      \"4\"\n    ]\n  },\n  {\n    \"id\": \"Luzia\",\n    \"name\": \"Luzia\",\n    \"gender\": \"woman\",\n    \"spouse_id\": \"Elias\",\n    \"children_ids\": [\n      \"1\",\n      \"2\",\n      \"3\",\n      \"4\"\n    ]\n  },\n  {\n    \"id\": \"1\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"father_id\": \"Elias\",\n    \"mother_id\": \"Luzia\",\n    \"spouse_id\": \"spouse_of_1\",\n    \"children_ids\": [\n      \"5\",\n      \"6\",\n      \"7\"\n    ],\n    \"sibling_ids\": [\n      \"2\",\n      \"3\",\n      \"4\"\n    ],\n    \"siblings_younger\": [\n      \"2\",\n      \"3\",\n      \"4\"\n    ]\n  },\n  {\n    \"id\": \"2\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"Elias\",\n    \"mother_id\": \"Luzia\",\n    \"spouse_id\": \"spouse_of_2\",\n    \"children_ids\": [\n      \"8\",\n      \"9\"\n    ],\n    \"sibling_ids\": [\n      \"1\",\n      \"3\",\n      \"4\"\n    ],\n    \"siblings_older\": [\n      \"1\"\n    ],\n    \"siblings_younger\": [\n      \"3\",\n      \"4\"\n    ]\n  },\n  {\n    \"id\": \"3\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"father_id\": \"Elias\",\n    \"mother_id\": \"Luzia\",\n    \"spouse_id\": \"spouse_of_3\",\n    \"children_ids\": [\n      \"Boni\",\n      \"Rosalina\"\n    ],\n    \"sibling_ids\": [\n      \"1\",\n      \"2\",\n      \"4\"\n    ],\n    \"siblings_older\": [\n      \"1\",\n      \"2\"\n    ],\n    \"siblings_younger\": [\n      \"4\"\n    ]\n  },\n  {\n    \"id\": \"4\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"Elias\",\n    \"mother_id\": \"Luzia\",\n    \"spouse_id\": \"spouse_of_4\",\n    \"children_ids\": [\n      \"10\"\n    ],\n    \"sibling_ids\": [\n      \"1\",\n      \"2\",\n      \"3\"\n    ],\n    \"siblings_older\": [\n      \"1\",\n      \"2\",\n      \"3\"\n    ]\n  },\n  {\n    \"id\": \"spouse_of_1\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"spouse_id\": \"1\",\n    \"children_ids\": [\n      \"5\",\n      \"6\",\n      \"7\"\n    ]\n  },\n  {\n    \"id\": \"spouse_of_2\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"spouse_id\": \"2\",\n    \"children_ids\": [\n      \"8\",\n      \"9\"\n    ]\n  },\n  {\n    \"id\": \"spouse_of_3\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"spouse_id\": \"3\",\n    \"children_ids\": [\n      \"Boni\",\n      \"Rosalina\"\n    ]\n  },\n  {\n    \"id\": \"spouse_of_4\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"spouse_id\": \"4\",\n    \"children_ids\": [\n      \"10\"\n    ]\n  },\n  {\n    \"id\": \"5\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"father_id\": \"spouse_of_1\",\n    \"mother_id\": \"1\",\n    \"sibling_ids\": [\n      \"6\",\n      \"7\"\n    ],\n    \"siblings_younger\": [\n      \"6\",\n      \"7\"\n    ]\n  },\n  {\n    \"id\": \"6\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"spouse_of_1\",\n    \"mother_id\": \"1\",\n    \"sibling_ids\": [\n      \"5\",\n      \"7\"\n    ],\n    \"siblings_older\": [\n      \"5\"\n    ],\n    \"siblings_younger\": [\n      \"7\"\n    ]\n  },\n  {\n    \"id\": \"7\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"spouse_of_1\",\n    \"mother_id\": \"1\",\n    \"sibling_ids\": [\n      \"5\",\n      \"6\"\n    ],\n    \"siblings_older\": [\n      \"5\",\n      \"6\"\n    ]\n  },\n  {\n    \"id\": \"8\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"2\",\n    \"mother_id\": \"spouse_of_2\",\n    \"sibling_ids\": [\n      \"9\"\n    ],\n    \"siblings_younger\": [\n      \"9\"\n    ]\n  },\n  {\n    \"id\": \"9\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"2\",\n    \"mother_id\": \"spouse_of_2\",\n    \"sibling_ids\": [\n      \"8\"\n    ],\n    \"siblings_older\": [\n      \"8\"\n    ]\n  },\n  {\n    \"id\": \"Boni\",\n    \"name\": \"Boni\",\n    \"gender\": \"man\",\n    \"father_id\": \"spouse_of_3\",\n    \"mother_id\": \"3\",\n    \"sibling_ids\": [\n      \"Rosalina\"\n    ],\n    \"siblings_younger\": [\n      \"Rosalina\"\n    ]\n  },\n  {\n    \"id\": \"Rosalina\",\n    \"name\": \"Rosalina\",\n    \"gender\": \"woman\",\n    \"father_id\": \"spouse_of_3\",\n    \"mother_id\": \"3\",\n    \"sibling_ids\": [\n      \"Boni\"\n    ],\n    \"siblings_older\": [\n      \"Boni\"\n    ]\n  },\n  {\n    \"id\": \"10\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"father_id\": \"4\",\n    \"mother_id\": \"spouse_of_4\"\n  }\n]\n\nThe names of four family members are given: the eldest couple (Elias and Luzia) and the two eldest people (Boni and Rosalina) from the youngest generation. Some other family members are identified below by letters (A–J) and represented on the tree by numbers (1–10), not necessarily in this order. People marked in grey do not appear in this problem; in the JSON these are the married-in spouses, shown with id \"spouse_of_N\".\n\nNow observe some of the phrases that these people can say to describe their family relationships. In each row, the speaker is indicated to the left of the colon, and the phrases spoken by this person are to the right of the colon. For example, G: Elias abitop means that G is saying \"Elias is abitop = my …\".\n\nElias: A otak; H otaup\nLuzia: B omẽpit\nBoni: J okip\nRosalina: A ãsi\nA: Luzia ãsi; Rosalina omẽpit; B okwa; D okwa tak; E okwa taup; F oykey mẽpit; G oykey; I …(i)\nB: Rosalina omãykut; A okoypet; D otak; E otaup; I omãykut\nC: I okoypet; G ãsi\nD: Rosalina …(ii); F okwa; I okupi\nE: C okip; D …(iii); J oyke\nF: C …(iv); E okip; G ãsi; I okoypet\nG: Elias abitop; Boni okupi mẽpit; A okupi; B …(v); E okwa taup; F omẽpit; I omẽpit\nH: Elias abitop; B oyke; C omãykut; D …(vi); E otaup\nI: F okwa; G ãsi\nJ: B abitop; F oyke; I okoypet\n\nThe Sakurabiat language belongs to the Tuparian branch of the Tupian family. It is spoken by approx. 13 people in the Brazilian Amazon rainforest, close to the border with Bolivia. u ≈ oo in goose but with the lips unrounded. The mark ˜ indicates a nasal vowel.",
+    "work_lang": "eng_Latn",
+    "task_lang": "['skf_Latn']"
+  },
+  {
+    "id": "12026040300",
+    "pred": "[\"I okwa\", \"Rosalina omẽpit\", \"D okwa tak\", \"C okwa\", \"okwa\", \"okwa tak\"]",
+    "predicted_items": [
+      "I okwa",
+      "Rosalina omẽpit",
+      "D okwa tak",
+      "C okwa",
+      "okwa",
+      "okwa tak"
+    ],
+    "target_text": "[\"oykey mẽpit\", \"oykey\", \"okoypet\", \"okip\", \"okwa\", \"otak\"]",
+    "eval_type": "single",
+    "task_type": "fill_blanks",
+    "points": 1.0,
+    "split": "public",
+    "scores": {
+      "em": 0.166667,
+      "chrf": 0.292697,
+      "item_em": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "item_chrf": [
+        0.056604,
+        0.027174,
+        0.096328,
+        0.185927,
+        1.0,
+        0.390148
+      ]
+    },
+    "explanation": "Let's analyze the provided information systematically according to the instructions.\n\n### Step-by-step Analysis\n\n#### Speaker A\n- **Phrases**: \n  - `Luzia ãsi`: Luzia is sister-in-law\n  - `Rosalina omẽpit`: Rosalina is daughter-in-law\n  - `B okwa`: B is brother\n  - `D okwa tak`: D is brother’s son\n  - `E okwa taup`: E is brother’s grandson\n  - `F oykey mepit`: F is father-in-law’s daughter\n  - `G oykey`: G is father-in-law\n  - `I ...`\n\nFrom the context, we understand that A refers to his relationship with others using specific kinship terms. \n\n#### Speaker B\n- **Phrases**:\n  - `Rosalina omãykut`: Rosalina is wife’s younger sister\n  - `A okoypet`: A is older sister\n  - `D otak`: D is nephew\n  - `E otaup`: E is niece\n  - `I omãykut`: I is younger sister\n\nThis shows how B describes various relatives including nieces/nephews and sisters.\n\n#### Speaker C\n- **Phrases**:\n  - `I okoypet`: I is younger sister\n  - `G ãsi`: G is sister\n\nThese indicate familial relations such as siblinghood.\n\n#### Speaker D\n- **Phrases**:\n  - `Ros...`: Missing phrase related to Rosalina\n  - `F okwa`: F is father\n  - `I okupi`: I is uncle\n\nIndicates paternal lineage and sibling relationships.\n\n#### Speaker E\n- **Phrases**:\n  - `C okip`: C is cousin\n  - `D ...`: Missing phrase related to D\n  - `J oyke`: J is grandchild\n\nShows generational connections within the family.\n\n#### Speaker F\n- **Phrases**:\n  - `C ...`: Missing phrase related to C\n  - `E okip`: E is cousin\n  - `G ãsi`: G is sister\n  - `I okoypet`: I is younger sister\n\nDescribes cousins and siblings.\n\n#### Speaker G\n- **Phrases**:\n  - `Elias abitop`: Elias is father\n  - `B okupi mepit`: B is grandfather’s son\n  - `A okupi`: A is grandmother\n  - `B ...`: Missing phrase related to B\n  - `E okwa taup`: E is great-grandson\n  - `F omepit`: F is mother-in-law\n  - `I omepit`: I is mother-in-law\n\nClearly defines elder generations and maternal/paternal roles.\n\n#### Speaker H\n- **Phrases**:\n  - `Elias abitop`: Elias is father\n  - `B oyke`: B is ...",
+    "has_explanation": true,
+    "n_expected_items": 6,
+    "format": {
+      "empty": false,
+      "clean_json_list": true,
+      "n_items_parsed": 6,
+      "item_count_matches": true
+    },
+    "source": "Fill in the blanks (i–vi). There is only one possible answer for each blank, but each answer is not necessarily just one word.",
+    "context": "Here is the family tree of a family of Sakurabiat speakers. In the tree, siblings appear from oldest to youngest, from left to right. (□: man  ○: woman  ∩: siblings  —: marriage  |: sons and daughters.) Because the tree is a diagram, it is given below in JSON instead:\n\n[\n  {\n    \"id\": \"Elias\",\n    \"name\": \"Elias\",\n    \"gender\": \"man\",\n    \"spouse_id\": \"Luzia\",\n    \"children_ids\": [\n      \"1\",\n      \"2\",\n      \"3\",\n      \"4\"\n    ]\n  },\n  {\n    \"id\": \"Luzia\",\n    \"name\": \"Luzia\",\n    \"gender\": \"woman\",\n    \"spouse_id\": \"Elias\",\n    \"children_ids\": [\n      \"1\",\n      \"2\",\n      \"3\",\n      \"4\"\n    ]\n  },\n  {\n    \"id\": \"1\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"father_id\": \"Elias\",\n    \"mother_id\": \"Luzia\",\n    \"spouse_id\": \"spouse_of_1\",\n    \"children_ids\": [\n      \"5\",\n      \"6\",\n      \"7\"\n    ],\n    \"sibling_ids\": [\n      \"2\",\n      \"3\",\n      \"4\"\n    ],\n    \"siblings_younger\": [\n      \"2\",\n      \"3\",\n      \"4\"\n    ]\n  },\n  {\n    \"id\": \"2\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"Elias\",\n    \"mother_id\": \"Luzia\",\n    \"spouse_id\": \"spouse_of_2\",\n    \"children_ids\": [\n      \"8\",\n      \"9\"\n    ],\n    \"sibling_ids\": [\n      \"1\",\n      \"3\",\n      \"4\"\n    ],\n    \"siblings_older\": [\n      \"1\"\n    ],\n    \"siblings_younger\": [\n      \"3\",\n      \"4\"\n    ]\n  },\n  {\n    \"id\": \"3\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"father_id\": \"Elias\",\n    \"mother_id\": \"Luzia\",\n    \"spouse_id\": \"spouse_of_3\",\n    \"children_ids\": [\n      \"Boni\",\n      \"Rosalina\"\n    ],\n    \"sibling_ids\": [\n      \"1\",\n      \"2\",\n      \"4\"\n    ],\n    \"siblings_older\": [\n      \"1\",\n      \"2\"\n    ],\n    \"siblings_younger\": [\n      \"4\"\n    ]\n  },\n  {\n    \"id\": \"4\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"Elias\",\n    \"mother_id\": \"Luzia\",\n    \"spouse_id\": \"spouse_of_4\",\n    \"children_ids\": [\n      \"10\"\n    ],\n    \"sibling_ids\": [\n      \"1\",\n      \"2\",\n      \"3\"\n    ],\n    \"siblings_older\": [\n      \"1\",\n      \"2\",\n      \"3\"\n    ]\n  },\n  {\n    \"id\": \"spouse_of_1\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"spouse_id\": \"1\",\n    \"children_ids\": [\n      \"5\",\n      \"6\",\n      \"7\"\n    ]\n  },\n  {\n    \"id\": \"spouse_of_2\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"spouse_id\": \"2\",\n    \"children_ids\": [\n      \"8\",\n      \"9\"\n    ]\n  },\n  {\n    \"id\": \"spouse_of_3\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"spouse_id\": \"3\",\n    \"children_ids\": [\n      \"Boni\",\n      \"Rosalina\"\n    ]\n  },\n  {\n    \"id\": \"spouse_of_4\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"spouse_id\": \"4\",\n    \"children_ids\": [\n      \"10\"\n    ]\n  },\n  {\n    \"id\": \"5\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"father_id\": \"spouse_of_1\",\n    \"mother_id\": \"1\",\n    \"sibling_ids\": [\n      \"6\",\n      \"7\"\n    ],\n    \"siblings_younger\": [\n      \"6\",\n      \"7\"\n    ]\n  },\n  {\n    \"id\": \"6\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"spouse_of_1\",\n    \"mother_id\": \"1\",\n    \"sibling_ids\": [\n      \"5\",\n      \"7\"\n    ],\n    \"siblings_older\": [\n      \"5\"\n    ],\n    \"siblings_younger\": [\n      \"7\"\n    ]\n  },\n  {\n    \"id\": \"7\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"spouse_of_1\",\n    \"mother_id\": \"1\",\n    \"sibling_ids\": [\n      \"5\",\n      \"6\"\n    ],\n    \"siblings_older\": [\n      \"5\",\n      \"6\"\n    ]\n  },\n  {\n    \"id\": \"8\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"2\",\n    \"mother_id\": \"spouse_of_2\",\n    \"sibling_ids\": [\n      \"9\"\n    ],\n    \"siblings_younger\": [\n      \"9\"\n    ]\n  },\n  {\n    \"id\": \"9\",\n    \"name\": null,\n    \"gender\": \"man\",\n    \"father_id\": \"2\",\n    \"mother_id\": \"spouse_of_2\",\n    \"sibling_ids\": [\n      \"8\"\n    ],\n    \"siblings_older\": [\n      \"8\"\n    ]\n  },\n  {\n    \"id\": \"Boni\",\n    \"name\": \"Boni\",\n    \"gender\": \"man\",\n    \"father_id\": \"spouse_of_3\",\n    \"mother_id\": \"3\",\n    \"sibling_ids\": [\n      \"Rosalina\"\n    ],\n    \"siblings_younger\": [\n      \"Rosalina\"\n    ]\n  },\n  {\n    \"id\": \"Rosalina\",\n    \"name\": \"Rosalina\",\n    \"gender\": \"woman\",\n    \"father_id\": \"spouse_of_3\",\n    \"mother_id\": \"3\",\n    \"sibling_ids\": [\n      \"Boni\"\n    ],\n    \"siblings_older\": [\n      \"Boni\"\n    ]\n  },\n  {\n    \"id\": \"10\",\n    \"name\": null,\n    \"gender\": \"woman\",\n    \"father_id\": \"4\",\n    \"mother_id\": \"spouse_of_4\"\n  }\n]\n\nThe names of four family members are given: the eldest couple (Elias and Luzia) and the two eldest people (Boni and Rosalina) from the youngest generation. Some other family members are identified below by letters (A–J) and represented on the tree by numbers (1–10), not necessarily in this order. People marked in grey do not appear in this problem; in the JSON these are the married-in spouses, shown with id \"spouse_of_N\".\n\nNow observe some of the phrases that these people can say to describe their family relationships. In each row, the speaker is indicated to the left of the colon, and the phrases spoken by this person are to the right of the colon. For example, G: Elias abitop means that G is saying \"Elias is abitop = my …\".\n\nElias: A otak; H otaup\nLuzia: B omẽpit\nBoni: J okip\nRosalina: A ãsi\nA: Luzia ãsi; Rosalina omẽpit; B okwa; D okwa tak; E okwa taup; F oykey mẽpit; G oykey; I …(i)\nB: Rosalina omãykut; A okoypet; D otak; E otaup; I omãykut\nC: I okoypet; G ãsi\nD: Rosalina …(ii); F okwa; I okupi\nE: C okip; D …(iii); J oyke\nF: C …(iv); E okip; G ãsi; I okoypet\nG: Elias abitop; Boni okupi mẽpit; A okupi; B …(v); E okwa taup; F omẽpit; I omẽpit\nH: Elias abitop; B oyke; C omãykut; D …(vi); E otaup\nI: F okwa; G ãsi\nJ: B abitop; F oyke; I okoypet\n\nThe Sakurabiat language belongs to the Tuparian branch of the Tupian family. It is spoken by approx. 13 people in the Brazilian Amazon rainforest, close to the border with Bolivia. u ≈ oo in goose but with the lips unrounded. The mark ˜ indicates a nasal vowel.",
+    "work_lang": "eng_Latn",
+    "task_lang": "['skf_Latn']"
+  },
+  {
+    "id": "12026050100",
+    "pred": "[\"kayé théfatmé\", \"nümä thébristhrth\", \"zénà théfatmrth\", \"nümä théwamrhth\"]",
+    "predicted_items": [
+      "kayé théfatmé",
+      "nümä thébristhrth",
+      "zénà théfatmrth",
+      "nümä théwamrhth"
+    ],
+    "target_text": "[\"kayé zwefafth\", \"nümä thäsa\", \"zena wofathwrth\", \"nümä nznewafath\"]",
+    "eval_type": "single",
+    "task_type": "translation",
+    "points": 1.0,
+    "split": "private",
+    "scores": {
+      "em": 0.0,
+      "chrf": 0.268081,
+      "item_em": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "item_chrf": [
+        0.238721,
+        0.432312,
+        0.199023,
+        0.20227
+      ]
+    },
+    "explanation": "Let's break down the provided sentences according to our methodology:\n\n### Sentence Breakdowns & Rule Identification\n\n#### Example Sentences Analysis\n\n**Sentence 1:** \"I met them yesterday.\" -> **kayé thewafé**\n- *kayé* = yesterday\n- *thewa-* = meet (them)\n- *fé* = subject pronoun (\"me\")\n\n**Sentence 2:** \"You all were calling me a week ago.\" -> **nümä wobräknwath**\n- *nümä* = past continuous aspect\n- *wo-* = call (someone)\n- *bäraknwáth* = object pronoun (\"us\")\n- *th* = temporal indicator (\"week ago\")\n\n**Sentence 3:** \"We were holding them a week ago.\" -> **nümä efathwake**\n- *nümä* = past continuous aspect\n- *efat-* = hold (something)\n- *hawék* = object pronoun (\"them\")\n- *th* = temporal indicator (\"week ago\")\n\n**Sentence 4:** \"We held you all a week ago.\" -> **nümä thefafake**\n- *nümä* = past simple aspect\n- *theft-* = hold (someone)\n- *fák* = object pronoun (\"you all\")\n- *th* = temporal indicator (\"week ago\")\n\n**Sentence 5:** \"You all are meeting us now.\" -> **zena nwagrwrth**\n- *zénà* = present progressive aspect\n- *nwa-* = meet (someone)\n- *grwérth* = object pronoun (\"us\")\n- *rth* = temporal indicator (\"now\")\n\n**Sentence 6:** \"We are seeing you all now.\" -> **zena emarwe**\n- *zénà* = present progressive aspect\n- *ema-* = see (someone)\n- *marwé* = object pronoun (\"you all\")\n- *rth* = temporal indicator (\"now\")\n\n**Sentence 7:** \"I am calling them now.\" -> **zena ebräknwé**\n- *zénà* = present progressive aspect\n- *ebra-* = call (someone)\n- *knwé* = object pronoun (\"them\")\n- *rth* = temporal indicator (\"now\")\n\n**Sentence 8:** \"They returned you all a week ago.\" -> **nümä thäbrimath**\n- *nümä* = past simple aspect\n- *tha-* = return (someone)\n- *brima-* = object pronoun (\"you all\")\n- *th* = temporal indicator (\"week ago\")\n\n**Sentence 9:** \"You all were holding us a week ago.\" -> **nümä nfathwath**\n- *nümä* = past continuous aspect\n- *nfat-* = hold (someone)\n- *hwath* = object pronoun (\"us\")\n- *th* = temporal indicator (\"week ago\")\n\n**Sentence 10:** \"We returned them ...",
+    "has_explanation": true,
+    "n_expected_items": 4,
+    "format": {
+      "empty": false,
+      "clean_json_list": true,
+      "n_items_parsed": 4,
+      "item_count_matches": true
+    },
+    "source": "Translate into Komnzo:\n\n16. You all held me yesterday.\n17. I called you all a week ago.\n18. You all are holding me now.\n19. They met us a week ago.",
+    "context": "Here are some sentences in English and their Komnzo translations:\n\n1. I met them yesterday. | kayé thewafé\n2. You all were calling me a week ago. | nümä wobräknwath\n3. We were holding them a week ago. | nümä efathwake\n4. We held you all a week ago. | nümä thefafake\n5. You all are meeting us now. | zena nwagrwrth\n6. We are seeing you all now. | zena emarwe\n7. I am calling them now. | zena ebräknwé\n8. They returned you all a week ago. | nümä thäbrimath\n9. You all were holding us a week ago. | nümä nfathwath\n10. We returned them yesterday. | kayé thäbrime\n11. They are returning me now. | zena wobrigwrth\n12. You all saw me a week ago. | nümä zwemarath\n13. They called us yesterday. | kayé nznästh\n14. They called me a week ago. | nümä zwäsath\n15. I was meeting them a week ago. | nümä ewagrwa\n\nThe Komnzo language belongs to the Yam family. It is spoken by approx. 250 people in the village of Rouku in the south of Papua New Guinea. ä, é, ü are vowels; th is a consonant.",
+    "work_lang": "eng_Latn",
+    "task_lang": "['mis_Latn']"
+  },
+  {
+    "id": "12026050200",
+    "pred": "[\"Let's go through each sentence provided and identify the components systematically:\", \"### Sentence Breakdowns & Analysis\", \"#### Example 1: \\\"I met them yesterday.\\\" -> kayé thewafé\", \"- **kayé**: Yesterday\"]",
+    "predicted_items": [
+      "Let's go through each sentence provided and identify the components systematically:",
+      "### Sentence Breakdowns & Analysis",
+      "#### Example 1: \"I met them yesterday.\" -> kayé thewafé",
+      "- **kayé**: Yesterday"
+    ],
+    "target_text": "[[\"you all were returning us a week ago\", \"they were returning us a week ago\"], [\"I held them yesterday\", \"I held you all yesterday\"], [\"I was seeing you all a week ago\", \"I was seeing them a week ago\"], [\"they returned us yesterday\", \"you all returned us yesterday\"]]",
+    "eval_type": "multi",
+    "task_type": "translation",
+    "points": 1.0,
+    "split": "public",
+    "scores": {
+      "em": 0.0,
+      "chrf": 0.182357,
+      "item_em": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "item_chrf": [
+        0.128715,
+        0.122296,
+        0.146043,
+        0.332373
+      ]
+    },
+    "explanation": "Let's go through each sentence provided and identify the components systematically:\n\n### Sentence Breakdowns & Analysis\n\n#### Example 1: \"I met them yesterday.\" -> kayé thewafé\n- **kayé**: Yesterday\n- **thewa**: Met them\n- **thé**: Them (object)\n- **fé**: Past tense suffix\n\n#### Example 2: \"You all were calling me a week ago.\" -> nümä wobräknwath\n- **nüma**: Week ago\n- **wo**: Call\n- **brika**: Me (subject)\n- **nwath**: Plural subject suffix\n\n#### Example 3: \"We were holding them a week ago.\" -> nümä efathwake\n- **nüma**: Week ago\n- **efa**: Hold\n- **tha**: Them (object)\n\n#### Example 4: \"We held you all a week ago.\" -> nümä thefafake\n- **nüma**: Week ago\n- **the**: Held\n- **fa**: You all (plural object)\n- **ke**: Singular subject suffix\n\n#### Example 5: \"You all are meeting us now.\" -> zena nwagrwrth\n- **zena**: Now\n- **nwa**: Meet\n- **grawr**: Us (object)\n\n#### Example 6: \"We are seeing you all now.\" -> zena emarwe\n- **zena**: Now\n- **ema**: See\n- **rwae**: Plural object suffix\n\n#### Example 7: \"I am calling them now.\" -> zena ebräknwé\n- **zena**: Now\n- **ebra**: Call\n- **kwé**: Third-person singular object suffix\n\n#### Example 8: \"They returned you all a week ago.\" -> nümä thäbrimath\n- **nüma**: Week ago\n- **thabrima**: Return\n- **tha**: You all (plural object)\n\n#### Example 9: \"You all were holding us a week ago.\" -> nümä nfathwath\n- **nüma**: Week ago\n- **nfa**: Hold\n- **tha**: Us (object)\n\n#### Example 10: \"We returned them yesterday.\" -> kayé thäbrime\n- **kaye**: Yesterday\n- **thabrima**: Return\n- **mé**: First-person plural subject suffix\n\n#### Example 1",
+    "has_explanation": true,
+    "n_expected_items": 4,
+    "format": {
+      "empty": false,
+      "clean_json_list": true,
+      "n_items_parsed": 4,
+      "item_count_matches": true
+    },
+    "source": "Translate into English in all possible ways:\n\n20. nümä nbrigwath\n21. kayé thefafé\n22. nümä emarwa\n23. kayé nznäbrimth",
+    "context": "Here are some sentences in English and their Komnzo translations:\n\n1. I met them yesterday. | kayé thewafé\n2. You all were calling me a week ago. | nümä wobräknwath\n3. We were holding them a week ago. | nümä efathwake\n4. We held you all a week ago. | nümä thefafake\n5. You all are meeting us now. | zena nwagrwrth\n6. We are seeing you all now. | zena emarwe\n7. I am calling them now. | zena ebräknwé\n8. They returned you all a week ago. | nümä thäbrimath\n9. You all were holding us a week ago. | nümä nfathwath\n10. We returned them yesterday. | kayé thäbrime\n11. They are returning me now. | zena wobrigwrth\n12. You all saw me a week ago. | nümä zwemarath\n13. They called us yesterday. | kayé nznästh\n14. They called me a week ago. | nümä zwäsath\n15. I was meeting them a week ago. | nümä ewagrwa\n\nThe Komnzo language belongs to the Yam family. It is spoken by approx. 250 people in the village of Rouku in the south of Papua New Guinea. ä, é, ü are vowels; th is a consonant.",
+    "work_lang": "eng_Latn",
+    "task_lang": "['mis_Latn']"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "public_score": 0.1555,
+  "public_exact_match": 0.0961,
+  "public_chrf": 0.2516,
+  "private_split_score": 0.0959,
+  "private_split_exact_match": 0.0333,
+  "private_split_chrf": 0.2759,
+  "score": 0.137,
+  "exact_match": 0.0719,
+  "chrf": 0.261,
+  "total": 14,
+  "public_total": 8,
+  "private_total": 6,
+  "format_clean_rate": 100.0,
+  "format_line_match_rate": 71.4286,
+  "empty_predictions": 0,
+  "empty_prediction_rate": 0.0,
+  "explanations": 14,
+  "explanation_rate": 100.0
+}

@@ -1,0 +1,1409 @@
+id,context,query,work_lang,task_lang,task_type,eval_type
+12026010100,"Here are some words in Central Alaskan Yup'ik along with their phonetic transcriptions and translations. All of them are spoken in the Norton Sound (NS) dialect:
+
+qasgulek | [ˈqaz.ɣu.ɮəkʰ] | ribbon seal
+nanevpak | [na.ˈnəf.pakʰ] | big lake
+tep'liuq | [ˈtəp.ɮi.uqʰ] | he is making aged fish-heads
+nav'pagtuq | [ˈnav.pax.tuqʰ] | it really broke
+qamiq'vak | [qa.ˈmiq.vakʰ] | (a type of moth)
+nat'rarkaq | [ˈnat.ʁaχ.kaqʰ] | sole material for skin boots
+calugun | [ca.ˈɮuː.ɣun] | skin scraper
+kaal'taaq | [ka.ˈaɮ.ta.aqʰ] | playing card
+ullelluku | [u.ˈɬəɬ.ɬu.ku] | turning it inside out
+ilquineq | [ˈiɬ.qu.ˈiː.nəqʰ] | skull
+kaltuuvvilaq | [ˈkaɬ.tu.ˈuː.fi.ɮaqʰ] | potato
+kayangurngalnguq | [ka.ˈjaː.ŋuʁ.ˈŋaɮ.ŋuqʰ] | oval thing
+assikekeka | [a.ˈsiː.kə.ˈkək.ka] | I like him
+paluteqerru | [pa.ˈɮuː.tə.ˈqəχ.χu] | please close it
+iggiggiayuli | [i.ˈxiː.xi.ˈaː.ju.ɮi] | great horned owl
+ilalkumalria | [i.ˈɮaɬ.ku.ˈmaɮ.ʁi.a] | victim
+apepailgaku | [a.ˈpəp.pa.ˈiɮ.ɣa.ku] | before asking him
+yuarutlertangqertuq | [ju.ˈaː.ʁutʰ.ˈɬəχ.taŋ.ˈqəχ.tuqʰ] | there is an old song
+tutgarrlugaq | [ˈtutʰ.xaχ.ˈɬuː.ɣaqʰ] | grandchild
+cuukvagtalek | [cu.ˈukʰ.fax.ˈtaː.ɮəkʰ] | place with many pike (fish)
+cangatenrituten | [ca.ˈŋaː.tən.ˈʁiː.tu.tən] | there is nothing wrong with you
+cungagcessvakartat | [cu.ˈŋax.cəs.ˈfaː.kaχ.tatʰ] | how green they are!
+
+Out of the forms above, only the last four are spoken differently in General Central Yup'ik (GCY), another dialect of the language. Here are the phonetic transcriptions of these forms, as spoken in the GCY dialect:
+
+tutgarrlugaq | [ˈtutʰ.ˈxaχ.ɬu.ɣaqʰ] | grandchild
+cuukvagtalek | [cu.ˈukʰ.ˈfax.ta.ɮəkʰ] | place with many pike (fish)
+cangatenrituten | [ca.ˈŋaː.ˈtən.ʁi.ˈtuː.tən] | there is nothing wrong with you
+cungagcessvakartat | [cu.ˈŋax.ˈcəs.fa.ˈkaχ.tatʰ] | how green they are!
+
+The Central Alaskan Yup'ik language belongs to the Eskimo-Aleut family. It is spoken by approx. 10,000 people in southwestern Alaska in the United States of America. The mark ː indicates that the vowel is long. The mark . separates syllables. The mark ˈ goes before the stressed syllable(s). [ʰ] indicates aspiration of the preceding consonant. [ə] = a in about. [j] = y in you. [c] = tch in kitchen. [q] = c in car, but further back in the mouth. [x] = ch in Bach. [ɣ] = [x], but with vocal cord vibration. [χ] = [x], but further back in the mouth. [ʁ] = [χ], but with vocal cord vibration. [ɬ] = s in sing, but with the tongue positioned as for l. [ɮ] = [ɬ], but with vocal cord vibration. [ŋ] = ng in hang.","Write in Central Alaskan Yup'ik. For forms that are valid in only one of the two dialects (NS or GCY), indicate which dialect is represented (append _NS or _GCY after the form).
+
+1. [ˈməɬ.qu.ˈɮəɮ.ɮi.ˈuχ.ta] | wildlife officer
+2. [qa.ˈjaː.pix.ˈkaː.ni] | his own future authentic kayak
+3. [ta.ˈɬiː.χaqʰ] | hook used in kayak
+4. [ˈkəx.sa.ˈiɬ.ku.taqʰ] | muzzle for dog
+5. [ˈcup.ɣa.ˈɬax.tuqʰ] | he suddenly felt homesick",eng_Latn,['esu_Latn'],translation,single
+12026010200,"Here are some words in Central Alaskan Yup'ik along with their phonetic transcriptions and translations. All of them are spoken in the Norton Sound (NS) dialect:
+
+qasgulek | [ˈqaz.ɣu.ɮəkʰ] | ribbon seal
+nanevpak | [na.ˈnəf.pakʰ] | big lake
+tep'liuq | [ˈtəp.ɮi.uqʰ] | he is making aged fish-heads
+nav'pagtuq | [ˈnav.pax.tuqʰ] | it really broke
+qamiq'vak | [qa.ˈmiq.vakʰ] | (a type of moth)
+nat'rarkaq | [ˈnat.ʁaχ.kaqʰ] | sole material for skin boots
+calugun | [ca.ˈɮuː.ɣun] | skin scraper
+kaal'taaq | [ka.ˈaɮ.ta.aqʰ] | playing card
+ullelluku | [u.ˈɬəɬ.ɬu.ku] | turning it inside out
+ilquineq | [ˈiɬ.qu.ˈiː.nəqʰ] | skull
+kaltuuvvilaq | [ˈkaɬ.tu.ˈuː.fi.ɮaqʰ] | potato
+kayangurngalnguq | [ka.ˈjaː.ŋuʁ.ˈŋaɮ.ŋuqʰ] | oval thing
+assikekeka | [a.ˈsiː.kə.ˈkək.ka] | I like him
+paluteqerru | [pa.ˈɮuː.tə.ˈqəχ.χu] | please close it
+iggiggiayuli | [i.ˈxiː.xi.ˈaː.ju.ɮi] | great horned owl
+ilalkumalria | [i.ˈɮaɬ.ku.ˈmaɮ.ʁi.a] | victim
+apepailgaku | [a.ˈpəp.pa.ˈiɮ.ɣa.ku] | before asking him
+yuarutlertangqertuq | [ju.ˈaː.ʁutʰ.ˈɬəχ.taŋ.ˈqəχ.tuqʰ] | there is an old song
+tutgarrlugaq | [ˈtutʰ.xaχ.ˈɬuː.ɣaqʰ] | grandchild
+cuukvagtalek | [cu.ˈukʰ.fax.ˈtaː.ɮəkʰ] | place with many pike (fish)
+cangatenrituten | [ca.ˈŋaː.tən.ˈʁiː.tu.tən] | there is nothing wrong with you
+cungagcessvakartat | [cu.ˈŋax.cəs.ˈfaː.kaχ.tatʰ] | how green they are!
+
+Out of the forms above, only the last four are spoken differently in General Central Yup'ik (GCY), another dialect of the language. Here are the phonetic transcriptions of these forms, as spoken in the GCY dialect:
+
+tutgarrlugaq | [ˈtutʰ.ˈxaχ.ɬu.ɣaqʰ] | grandchild
+cuukvagtalek | [cu.ˈukʰ.ˈfax.ta.ɮəkʰ] | place with many pike (fish)
+cangatenrituten | [ca.ˈŋaː.ˈtən.ʁi.ˈtuː.tən] | there is nothing wrong with you
+cungagcessvakartat | [cu.ˈŋax.ˈcəs.fa.ˈkaχ.tatʰ] | how green they are!
+
+The Central Alaskan Yup'ik language belongs to the Eskimo-Aleut family. It is spoken by approx. 10,000 people in southwestern Alaska in the United States of America. The mark ː indicates that the vowel is long. The mark . separates syllables. The mark ˈ goes before the stressed syllable(s). [ʰ] indicates aspiration of the preceding consonant. [ə] = a in about. [j] = y in you. [c] = tch in kitchen. [q] = c in car, but further back in the mouth. [x] = ch in Bach. [ɣ] = [x], but with vocal cord vibration. [χ] = [x], but further back in the mouth. [ʁ] = [χ], but with vocal cord vibration. [ɬ] = s in sing, but with the tongue positioned as for l. [ɮ] = [ɬ], but with vocal cord vibration. [ŋ] = ng in hang.","Write the phonetic transcriptions of the forms below. For transcriptions that differ across dialects, write both transcriptions, space-separated, in the order NS then GCY (e.g. for tutgarrlugaq 'grandchild': [ˈtutʰ.xaχ.ˈɬuː.ɣaqʰ] [ˈtutʰ.ˈxaχ.ɬu.ɣaqʰ]).
+
+6. aartartuq | he tends to be wary
+7. akekataki | ouch!
+8. negavgun | root used as scrubber in bath
+9. atasuak | summer trousers
+10. ner'ciquq | he will eat
+11. alikenritaqa | I do not fear it
+12. neqlinrrarmek | from fish cut up just now",eng_Latn,['esu_Latn'],translation,single
+12026020100,"Here are some words and phrases in Yélî Dnye and their English translations in arbitrary order:
+
+1. kpêdê
+2. kpêdêkpêdê
+3. kpaapî ntóó
+4. kpaapî tp:oo
+5. nkéli tp:oo
+6. tpile kpaapîkpaapî
+7. yi yââ mtyemtye
+
+A. black
+B. completely white
+C. nut that turns black when roasted
+D. small ship
+E. the tree has red leaves
+F. white thing
+G. white cockatoo chick
+
+Below are some more words and phrases in Yélî Dnye and their English translations in arbitrary order:
+
+8. chêêpî mbwii miyó
+9. kinikini
+10. lîmî k:ii
+11. mty:aamty:aa
+12. mty:aa wee
+13. nkéli chêêpî pââ
+14. nkéli pi
+15. tpile wee
+16. yi mbwii
+
+H. bee
+I. chunks of iron
+J. European person, foreigner
+K. greasy
+L. insect
+M. two thin stones
+N. quickly (""like lightning"")
+O. stick
+P. sweet (adjective)
+
+Finally, below are yet more words and phrases in Yélî Dnye and their English translations in arbitrary order:
+
+17. kémi nt:uu
+18. k:ii miyó
+19. nkéli mbwaa
+20. ngwolo nt:uu
+21. mbwaa
+22. mwi pê
+23. tpile pê k:ii kîgha nt:uu k:ii
+24. pi mbwii
+25. pi ntóó
+26. tpile pê yi kuu yââ k:ii
+27. yi pââ
+
+Q. alcoholic drink
+R. corpse
+S. eyeball
+T. green snake
+U. intestinal worm
+V. thin person
+W. tree trunks
+X. two banana plants
+Y. (unripe) mango
+Z. water
+AA. yellow snake
+
+The Yélî Dnye language (also known as Yele) is currently unclassified and may be a language isolate. It is spoken by approx. 5000 people on Rossel Island, in the south-eastern part of Papua New Guinea. A white cockatoo is a type of bird. The southern part of Papua New Guinea was historically under British and later Australian rule. â, ê, î, é, ó are vowels. The mark : indicates that the following vowel is nasalised.",Determine the correct correspondences.,eng_Latn,['yle_Latn'],match_letters,single
+12026020200,"Here are some words and phrases in Yélî Dnye and their English translations in arbitrary order:
+
+1. kpêdê
+2. kpêdêkpêdê
+3. kpaapî ntóó
+4. kpaapî tp:oo
+5. nkéli tp:oo
+6. tpile kpaapîkpaapî
+7. yi yââ mtyemtye
+
+A. black
+B. completely white
+C. nut that turns black when roasted
+D. small ship
+E. the tree has red leaves
+F. white thing
+G. white cockatoo chick
+
+Below are some more words and phrases in Yélî Dnye and their English translations in arbitrary order:
+
+8. chêêpî mbwii miyó
+9. kinikini
+10. lîmî k:ii
+11. mty:aamty:aa
+12. mty:aa wee
+13. nkéli chêêpî pââ
+14. nkéli pi
+15. tpile wee
+16. yi mbwii
+
+H. bee
+I. chunks of iron
+J. European person, foreigner
+K. greasy
+L. insect
+M. two thin stones
+N. quickly (""like lightning"")
+O. stick
+P. sweet (adjective)
+
+Finally, below are yet more words and phrases in Yélî Dnye and their English translations in arbitrary order:
+
+17. kémi nt:uu
+18. k:ii miyó
+19. nkéli mbwaa
+20. ngwolo nt:uu
+21. mbwaa
+22. mwi pê
+23. tpile pê k:ii kîgha nt:uu k:ii
+24. pi mbwii
+25. pi ntóó
+26. tpile pê yi kuu yââ k:ii
+27. yi pââ
+
+Q. alcoholic drink
+R. corpse
+S. eyeball
+T. green snake
+U. intestinal worm
+V. thin person
+W. tree trunks
+X. two banana plants
+Y. (unripe) mango
+Z. water
+AA. yellow snake
+
+The Yélî Dnye language (also known as Yele) is currently unclassified and may be a language isolate. It is spoken by approx. 5000 people on Rossel Island, in the south-eastern part of Papua New Guinea. A white cockatoo is a type of bird. The southern part of Papua New Guinea was historically under British and later Australian rule. â, ê, î, é, ó are vowels. The mark : indicates that the following vowel is nasalised.","Translate into English:
+
+28. k:ii (this word has two meanings)
+29. kpaapî
+30. kîgha
+31. mty:aa
+32. nkéli dnye
+33. ngwolo",eng_Latn,['yle_Latn'],translation,multi
+12026020300,"Here are some words and phrases in Yélî Dnye and their English translations in arbitrary order:
+
+1. kpêdê
+2. kpêdêkpêdê
+3. kpaapî ntóó
+4. kpaapî tp:oo
+5. nkéli tp:oo
+6. tpile kpaapîkpaapî
+7. yi yââ mtyemtye
+
+A. black
+B. completely white
+C. nut that turns black when roasted
+D. small ship
+E. the tree has red leaves
+F. white thing
+G. white cockatoo chick
+
+Below are some more words and phrases in Yélî Dnye and their English translations in arbitrary order:
+
+8. chêêpî mbwii miyó
+9. kinikini
+10. lîmî k:ii
+11. mty:aamty:aa
+12. mty:aa wee
+13. nkéli chêêpî pââ
+14. nkéli pi
+15. tpile wee
+16. yi mbwii
+
+H. bee
+I. chunks of iron
+J. European person, foreigner
+K. greasy
+L. insect
+M. two thin stones
+N. quickly (""like lightning"")
+O. stick
+P. sweet (adjective)
+
+Finally, below are yet more words and phrases in Yélî Dnye and their English translations in arbitrary order:
+
+17. kémi nt:uu
+18. k:ii miyó
+19. nkéli mbwaa
+20. ngwolo nt:uu
+21. mbwaa
+22. mwi pê
+23. tpile pê k:ii kîgha nt:uu k:ii
+24. pi mbwii
+25. pi ntóó
+26. tpile pê yi kuu yââ k:ii
+27. yi pââ
+
+Q. alcoholic drink
+R. corpse
+S. eyeball
+T. green snake
+U. intestinal worm
+V. thin person
+W. tree trunks
+X. two banana plants
+Y. (unripe) mango
+Z. water
+AA. yellow snake
+
+The Yélî Dnye language (also known as Yele) is currently unclassified and may be a language isolate. It is spoken by approx. 5000 people on Rossel Island, in the south-eastern part of Papua New Guinea. A white cockatoo is a type of bird. The southern part of Papua New Guinea was historically under British and later Australian rule. â, ê, î, é, ó are vowels. The mark : indicates that the following vowel is nasalised.","Translate into Yélî Dnye:
+
+BB. (his) son
+CC. green
+DD. fat, grease
+EE. fresh, raw
+FF. (unripe) fruit
+GG. black person
+HH. Rossel Island",eng_Latn,['yle_Latn'],translation,single
+12026020400,"Here are some words and phrases in Yélî Dnye and their English translations in arbitrary order:
+
+1. kpêdê
+2. kpêdêkpêdê
+3. kpaapî ntóó
+4. kpaapî tp:oo
+5. nkéli tp:oo
+6. tpile kpaapîkpaapî
+7. yi yââ mtyemtye
+
+A. black
+B. completely white
+C. nut that turns black when roasted
+D. small ship
+E. the tree has red leaves
+F. white thing
+G. white cockatoo chick
+
+Below are some more words and phrases in Yélî Dnye and their English translations in arbitrary order:
+
+8. chêêpî mbwii miyó
+9. kinikini
+10. lîmî k:ii
+11. mty:aamty:aa
+12. mty:aa wee
+13. nkéli chêêpî pââ
+14. nkéli pi
+15. tpile wee
+16. yi mbwii
+
+H. bee
+I. chunks of iron
+J. European person, foreigner
+K. greasy
+L. insect
+M. two thin stones
+N. quickly (""like lightning"")
+O. stick
+P. sweet (adjective)
+
+Finally, below are yet more words and phrases in Yélî Dnye and their English translations in arbitrary order:
+
+17. kémi nt:uu
+18. k:ii miyó
+19. nkéli mbwaa
+20. ngwolo nt:uu
+21. mbwaa
+22. mwi pê
+23. tpile pê k:ii kîgha nt:uu k:ii
+24. pi mbwii
+25. pi ntóó
+26. tpile pê yi kuu yââ k:ii
+27. yi pââ
+
+Q. alcoholic drink
+R. corpse
+S. eyeball
+T. green snake
+U. intestinal worm
+V. thin person
+W. tree trunks
+X. two banana plants
+Y. (unripe) mango
+Z. water
+AA. yellow snake
+
+The Yélî Dnye language (also known as Yele) is currently unclassified and may be a language isolate. It is spoken by approx. 5000 people on Rossel Island, in the south-eastern part of Papua New Guinea. A white cockatoo is a type of bird. The southern part of Papua New Guinea was historically under British and later Australian rule. â, ê, î, é, ó are vowels. The mark : indicates that the following vowel is nasalised.",Explain how colours are expressed in Yélî Dnye: ____________,eng_Latn,['yle_Latn'],fill_blanks,single
+12026020500,"Here are some words and phrases in Yélî Dnye and their English translations in arbitrary order:
+
+1. kpêdê
+2. kpêdêkpêdê
+3. kpaapî ntóó
+4. kpaapî tp:oo
+5. nkéli tp:oo
+6. tpile kpaapîkpaapî
+7. yi yââ mtyemtye
+
+A. black
+B. completely white
+C. nut that turns black when roasted
+D. small ship
+E. the tree has red leaves
+F. white thing
+G. white cockatoo chick
+
+Below are some more words and phrases in Yélî Dnye and their English translations in arbitrary order:
+
+8. chêêpî mbwii miyó
+9. kinikini
+10. lîmî k:ii
+11. mty:aamty:aa
+12. mty:aa wee
+13. nkéli chêêpî pââ
+14. nkéli pi
+15. tpile wee
+16. yi mbwii
+
+H. bee
+I. chunks of iron
+J. European person, foreigner
+K. greasy
+L. insect
+M. two thin stones
+N. quickly (""like lightning"")
+O. stick
+P. sweet (adjective)
+
+Finally, below are yet more words and phrases in Yélî Dnye and their English translations in arbitrary order:
+
+17. kémi nt:uu
+18. k:ii miyó
+19. nkéli mbwaa
+20. ngwolo nt:uu
+21. mbwaa
+22. mwi pê
+23. tpile pê k:ii kîgha nt:uu k:ii
+24. pi mbwii
+25. pi ntóó
+26. tpile pê yi kuu yââ k:ii
+27. yi pââ
+
+Q. alcoholic drink
+R. corpse
+S. eyeball
+T. green snake
+U. intestinal worm
+V. thin person
+W. tree trunks
+X. two banana plants
+Y. (unripe) mango
+Z. water
+AA. yellow snake
+
+The Yélî Dnye language (also known as Yele) is currently unclassified and may be a language isolate. It is spoken by approx. 5000 people on Rossel Island, in the south-eastern part of Papua New Guinea. A white cockatoo is a type of bird. The southern part of Papua New Guinea was historically under British and later Australian rule. â, ê, î, é, ó are vowels. The mark : indicates that the following vowel is nasalised.","Match the following Yélî Dnye words with the pictures below, knowing that nté ≈ k:ii. The pictures cannot be reproduced here, so each one is given below as an English description of the picture:
+
+34. kpaapî tp:oo kpaapî tp:oo
+35. mbóó
+36. mbóó nté
+37. mbóó p:uu nkéli
+38. mtye
+39. pê pê
+
+II. millipede
+JJ. sky
+KK. red parrot
+LL. plane
+MM. young humphead wrasse
+NN. (light) blue rectangle",eng_Latn,['yle_Latn'],match_letters,single
+12026030100,"Here are some sentences in Iquito and their English translations. Where more than one Iquito sentence corresponds to a single English translation, all possible Iquito sentences are given.
+
+1. Ima paapaaja masɨɨtɨɨrɨɨ | Ema will sell the fish (singular).
+2. nu=iina isikɨrɨɨ iiyɨɨ | They will break this rope.
+3. ki=iita masɨɨtɨɨrɨɨ Jaime / ki=Jaime masɨɨtɨɨrɨɨ iita | I will sell Jaime the house.
+4. nu=naajuukura simiimɨ | They wrote the book.
+5. ki=iina masɨɨrɨɨ ikwani saawiri | I will buy this machete of the man.¹
+6. ki=iipɨ asuraaja sakɨɨrɨɨ mɨra | I will chew the manioc of these children.
+7. Leo iipɨ siwɨɨrarɨɨ ikwaniwɨya | Leo will visit these men.
+8. kia=Leo iita irikatajuurɨɨ | You will repair Leo's house.
+9. ki=simiitakura iimi simiimɨya | I read (past) these books.
+10. nu=iimi irikatajuurɨɨ iiminaka | They will repair these canoes.
+11. kia=kariiniikura mɨɨsaji kajinani | You cared for the animal of the woman.
+12. ki=simiitakura iina simiimɨ paajuuyaana | I read (past) the book of this teacher.
+13. nu=paapaaja miitɨɨrɨɨ iina ikwani / nu=iina miitɨɨrɨɨ ikwani paapaaja | They will give this man the fish (singular).
+14. ki=nikikura iipɨ kaajiya iitimɨra | I saw the animals of these women.
+15. kia=iina simiimɨya simiitarɨɨ maaya | You will read the books of this child.
+16. kia=iina masɨɨtɨɨrɨɨ simiimɨ paajuuyaana / kia=paajuuyaana masɨɨtɨɨrɨɨ iina simiimɨ | You will sell the teacher this book.
+
+¹ i.e., the man has multiple machetes, and I will buy this one.
+
+In this problem, you is a singular pronoun, and they is a gender-neutral singular pronoun. The Iquito language belongs to the Zaparoan family. It is spoken by fewer than 100 people in the Peruvian Amazon. ɨ is a vowel. j = h in hello. The mark = is used to separate two parts of a word. The Iquito language has tones, but for simplicity they are omitted in this problem. Ema, Jaime and Leo are people's names.","Translate the following sentences into English. Give more than one translation where possible.
+
+17. kia=iipɨ siwɨɨrarɨɨ mɨɨsaji paajuuyaapɨ
+18. nu=nikikura Leo paapaaja
+19. ki=iina masɨɨtɨɨrɨɨ mɨɨsaji iimina
+20. ki=iipɨ kariiniirɨɨ iina mɨra ikwani",eng_Latn,['iqu_Latn'],translation,multi
+12026030200,"Here are some sentences in Iquito and their English translations. Where more than one Iquito sentence corresponds to a single English translation, all possible Iquito sentences are given.
+
+1. Ima paapaaja masɨɨtɨɨrɨɨ | Ema will sell the fish (singular).
+2. nu=iina isikɨrɨɨ iiyɨɨ | They will break this rope.
+3. ki=iita masɨɨtɨɨrɨɨ Jaime / ki=Jaime masɨɨtɨɨrɨɨ iita | I will sell Jaime the house.
+4. nu=naajuukura simiimɨ | They wrote the book.
+5. ki=iina masɨɨrɨɨ ikwani saawiri | I will buy this machete of the man.¹
+6. ki=iipɨ asuraaja sakɨɨrɨɨ mɨra | I will chew the manioc of these children.
+7. Leo iipɨ siwɨɨrarɨɨ ikwaniwɨya | Leo will visit these men.
+8. kia=Leo iita irikatajuurɨɨ | You will repair Leo's house.
+9. ki=simiitakura iimi simiimɨya | I read (past) these books.
+10. nu=iimi irikatajuurɨɨ iiminaka | They will repair these canoes.
+11. kia=kariiniikura mɨɨsaji kajinani | You cared for the animal of the woman.
+12. ki=simiitakura iina simiimɨ paajuuyaana | I read (past) the book of this teacher.
+13. nu=paapaaja miitɨɨrɨɨ iina ikwani / nu=iina miitɨɨrɨɨ ikwani paapaaja | They will give this man the fish (singular).
+14. ki=nikikura iipɨ kaajiya iitimɨra | I saw the animals of these women.
+15. kia=iina simiimɨya simiitarɨɨ maaya | You will read the books of this child.
+16. kia=iina masɨɨtɨɨrɨɨ simiimɨ paajuuyaana / kia=paajuuyaana masɨɨtɨɨrɨɨ iina simiimɨ | You will sell the teacher this book.
+
+¹ i.e., the man has multiple machetes, and I will buy this one.
+
+In this problem, you is a singular pronoun, and they is a gender-neutral singular pronoun. The Iquito language belongs to the Zaparoan family. It is spoken by fewer than 100 people in the Peruvian Amazon. ɨ is a vowel. j = h in hello. The mark = is used to separate two parts of a word. The Iquito language has tones, but for simplicity they are omitted in this problem. Ema, Jaime and Leo are people's names.","Translate the following sentences into Iquito. Give more than one translation where possible.
+
+21. You bought the canoes of these children.
+22. You will break the rope of the teacher.
+23. I will buy the house of these women.
+24. They will sell Ema these books.
+25. I will repair this canoe of these men.",eng_Latn,['iqu_Latn'],translation,multi
+12026040100,"Here is the family tree of a family of Sakurabiat speakers. In the tree, siblings appear from oldest to youngest, from left to right. (□: man  ○: woman  ∩: siblings  —: marriage  |: sons and daughters.) Because the tree is a diagram, it is given below in JSON instead:
+
+[
+  {
+    ""id"": ""Elias"",
+    ""name"": ""Elias"",
+    ""gender"": ""man"",
+    ""spouse_id"": ""Luzia"",
+    ""children_ids"": [
+      ""1"",
+      ""2"",
+      ""3"",
+      ""4""
+    ]
+  },
+  {
+    ""id"": ""Luzia"",
+    ""name"": ""Luzia"",
+    ""gender"": ""woman"",
+    ""spouse_id"": ""Elias"",
+    ""children_ids"": [
+      ""1"",
+      ""2"",
+      ""3"",
+      ""4""
+    ]
+  },
+  {
+    ""id"": ""1"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""father_id"": ""Elias"",
+    ""mother_id"": ""Luzia"",
+    ""spouse_id"": ""spouse_of_1"",
+    ""children_ids"": [
+      ""5"",
+      ""6"",
+      ""7""
+    ],
+    ""sibling_ids"": [
+      ""2"",
+      ""3"",
+      ""4""
+    ],
+    ""siblings_younger"": [
+      ""2"",
+      ""3"",
+      ""4""
+    ]
+  },
+  {
+    ""id"": ""2"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""Elias"",
+    ""mother_id"": ""Luzia"",
+    ""spouse_id"": ""spouse_of_2"",
+    ""children_ids"": [
+      ""8"",
+      ""9""
+    ],
+    ""sibling_ids"": [
+      ""1"",
+      ""3"",
+      ""4""
+    ],
+    ""siblings_older"": [
+      ""1""
+    ],
+    ""siblings_younger"": [
+      ""3"",
+      ""4""
+    ]
+  },
+  {
+    ""id"": ""3"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""father_id"": ""Elias"",
+    ""mother_id"": ""Luzia"",
+    ""spouse_id"": ""spouse_of_3"",
+    ""children_ids"": [
+      ""Boni"",
+      ""Rosalina""
+    ],
+    ""sibling_ids"": [
+      ""1"",
+      ""2"",
+      ""4""
+    ],
+    ""siblings_older"": [
+      ""1"",
+      ""2""
+    ],
+    ""siblings_younger"": [
+      ""4""
+    ]
+  },
+  {
+    ""id"": ""4"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""Elias"",
+    ""mother_id"": ""Luzia"",
+    ""spouse_id"": ""spouse_of_4"",
+    ""children_ids"": [
+      ""10""
+    ],
+    ""sibling_ids"": [
+      ""1"",
+      ""2"",
+      ""3""
+    ],
+    ""siblings_older"": [
+      ""1"",
+      ""2"",
+      ""3""
+    ]
+  },
+  {
+    ""id"": ""spouse_of_1"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""spouse_id"": ""1"",
+    ""children_ids"": [
+      ""5"",
+      ""6"",
+      ""7""
+    ]
+  },
+  {
+    ""id"": ""spouse_of_2"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""spouse_id"": ""2"",
+    ""children_ids"": [
+      ""8"",
+      ""9""
+    ]
+  },
+  {
+    ""id"": ""spouse_of_3"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""spouse_id"": ""3"",
+    ""children_ids"": [
+      ""Boni"",
+      ""Rosalina""
+    ]
+  },
+  {
+    ""id"": ""spouse_of_4"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""spouse_id"": ""4"",
+    ""children_ids"": [
+      ""10""
+    ]
+  },
+  {
+    ""id"": ""5"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""father_id"": ""spouse_of_1"",
+    ""mother_id"": ""1"",
+    ""sibling_ids"": [
+      ""6"",
+      ""7""
+    ],
+    ""siblings_younger"": [
+      ""6"",
+      ""7""
+    ]
+  },
+  {
+    ""id"": ""6"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""spouse_of_1"",
+    ""mother_id"": ""1"",
+    ""sibling_ids"": [
+      ""5"",
+      ""7""
+    ],
+    ""siblings_older"": [
+      ""5""
+    ],
+    ""siblings_younger"": [
+      ""7""
+    ]
+  },
+  {
+    ""id"": ""7"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""spouse_of_1"",
+    ""mother_id"": ""1"",
+    ""sibling_ids"": [
+      ""5"",
+      ""6""
+    ],
+    ""siblings_older"": [
+      ""5"",
+      ""6""
+    ]
+  },
+  {
+    ""id"": ""8"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""2"",
+    ""mother_id"": ""spouse_of_2"",
+    ""sibling_ids"": [
+      ""9""
+    ],
+    ""siblings_younger"": [
+      ""9""
+    ]
+  },
+  {
+    ""id"": ""9"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""2"",
+    ""mother_id"": ""spouse_of_2"",
+    ""sibling_ids"": [
+      ""8""
+    ],
+    ""siblings_older"": [
+      ""8""
+    ]
+  },
+  {
+    ""id"": ""Boni"",
+    ""name"": ""Boni"",
+    ""gender"": ""man"",
+    ""father_id"": ""spouse_of_3"",
+    ""mother_id"": ""3"",
+    ""sibling_ids"": [
+      ""Rosalina""
+    ],
+    ""siblings_younger"": [
+      ""Rosalina""
+    ]
+  },
+  {
+    ""id"": ""Rosalina"",
+    ""name"": ""Rosalina"",
+    ""gender"": ""woman"",
+    ""father_id"": ""spouse_of_3"",
+    ""mother_id"": ""3"",
+    ""sibling_ids"": [
+      ""Boni""
+    ],
+    ""siblings_older"": [
+      ""Boni""
+    ]
+  },
+  {
+    ""id"": ""10"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""father_id"": ""4"",
+    ""mother_id"": ""spouse_of_4""
+  }
+]
+
+The names of four family members are given: the eldest couple (Elias and Luzia) and the two eldest people (Boni and Rosalina) from the youngest generation. Some other family members are identified below by letters (A–J) and represented on the tree by numbers (1–10), not necessarily in this order. People marked in grey do not appear in this problem; in the JSON these are the married-in spouses, shown with id ""spouse_of_N"".
+
+Now observe some of the phrases that these people can say to describe their family relationships. In each row, the speaker is indicated to the left of the colon, and the phrases spoken by this person are to the right of the colon. For example, G: Elias abitop means that G is saying ""Elias is abitop = my …"".
+
+Elias: A otak; H otaup
+Luzia: B omẽpit
+Boni: J okip
+Rosalina: A ãsi
+A: Luzia ãsi; Rosalina omẽpit; B okwa; D okwa tak; E okwa taup; F oykey mẽpit; G oykey; I …(i)
+B: Rosalina omãykut; A okoypet; D otak; E otaup; I omãykut
+C: I okoypet; G ãsi
+D: Rosalina …(ii); F okwa; I okupi
+E: C okip; D …(iii); J oyke
+F: C …(iv); E okip; G ãsi; I okoypet
+G: Elias abitop; Boni okupi mẽpit; A okupi; B …(v); E okwa taup; F omẽpit; I omẽpit
+H: Elias abitop; B oyke; C omãykut; D …(vi); E otaup
+I: F okwa; G ãsi
+J: B abitop; F oyke; I okoypet
+
+The Sakurabiat language belongs to the Tuparian branch of the Tupian family. It is spoken by approx. 13 people in the Brazilian Amazon rainforest, close to the border with Bolivia. u ≈ oo in goose but with the lips unrounded. The mark ˜ indicates a nasal vowel.",Match numbers (1–10) with family members (A–J).,eng_Latn,['skf_Latn'],match_letters,single
+12026040200,"Here is the family tree of a family of Sakurabiat speakers. In the tree, siblings appear from oldest to youngest, from left to right. (□: man  ○: woman  ∩: siblings  —: marriage  |: sons and daughters.) Because the tree is a diagram, it is given below in JSON instead:
+
+[
+  {
+    ""id"": ""Elias"",
+    ""name"": ""Elias"",
+    ""gender"": ""man"",
+    ""spouse_id"": ""Luzia"",
+    ""children_ids"": [
+      ""1"",
+      ""2"",
+      ""3"",
+      ""4""
+    ]
+  },
+  {
+    ""id"": ""Luzia"",
+    ""name"": ""Luzia"",
+    ""gender"": ""woman"",
+    ""spouse_id"": ""Elias"",
+    ""children_ids"": [
+      ""1"",
+      ""2"",
+      ""3"",
+      ""4""
+    ]
+  },
+  {
+    ""id"": ""1"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""father_id"": ""Elias"",
+    ""mother_id"": ""Luzia"",
+    ""spouse_id"": ""spouse_of_1"",
+    ""children_ids"": [
+      ""5"",
+      ""6"",
+      ""7""
+    ],
+    ""sibling_ids"": [
+      ""2"",
+      ""3"",
+      ""4""
+    ],
+    ""siblings_younger"": [
+      ""2"",
+      ""3"",
+      ""4""
+    ]
+  },
+  {
+    ""id"": ""2"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""Elias"",
+    ""mother_id"": ""Luzia"",
+    ""spouse_id"": ""spouse_of_2"",
+    ""children_ids"": [
+      ""8"",
+      ""9""
+    ],
+    ""sibling_ids"": [
+      ""1"",
+      ""3"",
+      ""4""
+    ],
+    ""siblings_older"": [
+      ""1""
+    ],
+    ""siblings_younger"": [
+      ""3"",
+      ""4""
+    ]
+  },
+  {
+    ""id"": ""3"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""father_id"": ""Elias"",
+    ""mother_id"": ""Luzia"",
+    ""spouse_id"": ""spouse_of_3"",
+    ""children_ids"": [
+      ""Boni"",
+      ""Rosalina""
+    ],
+    ""sibling_ids"": [
+      ""1"",
+      ""2"",
+      ""4""
+    ],
+    ""siblings_older"": [
+      ""1"",
+      ""2""
+    ],
+    ""siblings_younger"": [
+      ""4""
+    ]
+  },
+  {
+    ""id"": ""4"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""Elias"",
+    ""mother_id"": ""Luzia"",
+    ""spouse_id"": ""spouse_of_4"",
+    ""children_ids"": [
+      ""10""
+    ],
+    ""sibling_ids"": [
+      ""1"",
+      ""2"",
+      ""3""
+    ],
+    ""siblings_older"": [
+      ""1"",
+      ""2"",
+      ""3""
+    ]
+  },
+  {
+    ""id"": ""spouse_of_1"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""spouse_id"": ""1"",
+    ""children_ids"": [
+      ""5"",
+      ""6"",
+      ""7""
+    ]
+  },
+  {
+    ""id"": ""spouse_of_2"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""spouse_id"": ""2"",
+    ""children_ids"": [
+      ""8"",
+      ""9""
+    ]
+  },
+  {
+    ""id"": ""spouse_of_3"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""spouse_id"": ""3"",
+    ""children_ids"": [
+      ""Boni"",
+      ""Rosalina""
+    ]
+  },
+  {
+    ""id"": ""spouse_of_4"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""spouse_id"": ""4"",
+    ""children_ids"": [
+      ""10""
+    ]
+  },
+  {
+    ""id"": ""5"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""father_id"": ""spouse_of_1"",
+    ""mother_id"": ""1"",
+    ""sibling_ids"": [
+      ""6"",
+      ""7""
+    ],
+    ""siblings_younger"": [
+      ""6"",
+      ""7""
+    ]
+  },
+  {
+    ""id"": ""6"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""spouse_of_1"",
+    ""mother_id"": ""1"",
+    ""sibling_ids"": [
+      ""5"",
+      ""7""
+    ],
+    ""siblings_older"": [
+      ""5""
+    ],
+    ""siblings_younger"": [
+      ""7""
+    ]
+  },
+  {
+    ""id"": ""7"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""spouse_of_1"",
+    ""mother_id"": ""1"",
+    ""sibling_ids"": [
+      ""5"",
+      ""6""
+    ],
+    ""siblings_older"": [
+      ""5"",
+      ""6""
+    ]
+  },
+  {
+    ""id"": ""8"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""2"",
+    ""mother_id"": ""spouse_of_2"",
+    ""sibling_ids"": [
+      ""9""
+    ],
+    ""siblings_younger"": [
+      ""9""
+    ]
+  },
+  {
+    ""id"": ""9"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""2"",
+    ""mother_id"": ""spouse_of_2"",
+    ""sibling_ids"": [
+      ""8""
+    ],
+    ""siblings_older"": [
+      ""8""
+    ]
+  },
+  {
+    ""id"": ""Boni"",
+    ""name"": ""Boni"",
+    ""gender"": ""man"",
+    ""father_id"": ""spouse_of_3"",
+    ""mother_id"": ""3"",
+    ""sibling_ids"": [
+      ""Rosalina""
+    ],
+    ""siblings_younger"": [
+      ""Rosalina""
+    ]
+  },
+  {
+    ""id"": ""Rosalina"",
+    ""name"": ""Rosalina"",
+    ""gender"": ""woman"",
+    ""father_id"": ""spouse_of_3"",
+    ""mother_id"": ""3"",
+    ""sibling_ids"": [
+      ""Boni""
+    ],
+    ""siblings_older"": [
+      ""Boni""
+    ]
+  },
+  {
+    ""id"": ""10"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""father_id"": ""4"",
+    ""mother_id"": ""spouse_of_4""
+  }
+]
+
+The names of four family members are given: the eldest couple (Elias and Luzia) and the two eldest people (Boni and Rosalina) from the youngest generation. Some other family members are identified below by letters (A–J) and represented on the tree by numbers (1–10), not necessarily in this order. People marked in grey do not appear in this problem; in the JSON these are the married-in spouses, shown with id ""spouse_of_N"".
+
+Now observe some of the phrases that these people can say to describe their family relationships. In each row, the speaker is indicated to the left of the colon, and the phrases spoken by this person are to the right of the colon. For example, G: Elias abitop means that G is saying ""Elias is abitop = my …"".
+
+Elias: A otak; H otaup
+Luzia: B omẽpit
+Boni: J okip
+Rosalina: A ãsi
+A: Luzia ãsi; Rosalina omẽpit; B okwa; D okwa tak; E okwa taup; F oykey mẽpit; G oykey; I …(i)
+B: Rosalina omãykut; A okoypet; D otak; E otaup; I omãykut
+C: I okoypet; G ãsi
+D: Rosalina …(ii); F okwa; I okupi
+E: C okip; D …(iii); J oyke
+F: C …(iv); E okip; G ãsi; I okoypet
+G: Elias abitop; Boni okupi mẽpit; A okupi; B …(v); E okwa taup; F omẽpit; I omẽpit
+H: Elias abitop; B oyke; C omãykut; D …(vi); E otaup
+I: F okwa; G ãsi
+J: B abitop; F oyke; I okoypet
+
+The Sakurabiat language belongs to the Tuparian branch of the Tupian family. It is spoken by approx. 13 people in the Brazilian Amazon rainforest, close to the border with Bolivia. u ≈ oo in goose but with the lips unrounded. The mark ˜ indicates a nasal vowel.","Indicate the birth order of family members (5–10), listing them from oldest to youngest.",eng_Latn,['skf_Latn'],fill_blanks,single
+12026040300,"Here is the family tree of a family of Sakurabiat speakers. In the tree, siblings appear from oldest to youngest, from left to right. (□: man  ○: woman  ∩: siblings  —: marriage  |: sons and daughters.) Because the tree is a diagram, it is given below in JSON instead:
+
+[
+  {
+    ""id"": ""Elias"",
+    ""name"": ""Elias"",
+    ""gender"": ""man"",
+    ""spouse_id"": ""Luzia"",
+    ""children_ids"": [
+      ""1"",
+      ""2"",
+      ""3"",
+      ""4""
+    ]
+  },
+  {
+    ""id"": ""Luzia"",
+    ""name"": ""Luzia"",
+    ""gender"": ""woman"",
+    ""spouse_id"": ""Elias"",
+    ""children_ids"": [
+      ""1"",
+      ""2"",
+      ""3"",
+      ""4""
+    ]
+  },
+  {
+    ""id"": ""1"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""father_id"": ""Elias"",
+    ""mother_id"": ""Luzia"",
+    ""spouse_id"": ""spouse_of_1"",
+    ""children_ids"": [
+      ""5"",
+      ""6"",
+      ""7""
+    ],
+    ""sibling_ids"": [
+      ""2"",
+      ""3"",
+      ""4""
+    ],
+    ""siblings_younger"": [
+      ""2"",
+      ""3"",
+      ""4""
+    ]
+  },
+  {
+    ""id"": ""2"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""Elias"",
+    ""mother_id"": ""Luzia"",
+    ""spouse_id"": ""spouse_of_2"",
+    ""children_ids"": [
+      ""8"",
+      ""9""
+    ],
+    ""sibling_ids"": [
+      ""1"",
+      ""3"",
+      ""4""
+    ],
+    ""siblings_older"": [
+      ""1""
+    ],
+    ""siblings_younger"": [
+      ""3"",
+      ""4""
+    ]
+  },
+  {
+    ""id"": ""3"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""father_id"": ""Elias"",
+    ""mother_id"": ""Luzia"",
+    ""spouse_id"": ""spouse_of_3"",
+    ""children_ids"": [
+      ""Boni"",
+      ""Rosalina""
+    ],
+    ""sibling_ids"": [
+      ""1"",
+      ""2"",
+      ""4""
+    ],
+    ""siblings_older"": [
+      ""1"",
+      ""2""
+    ],
+    ""siblings_younger"": [
+      ""4""
+    ]
+  },
+  {
+    ""id"": ""4"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""Elias"",
+    ""mother_id"": ""Luzia"",
+    ""spouse_id"": ""spouse_of_4"",
+    ""children_ids"": [
+      ""10""
+    ],
+    ""sibling_ids"": [
+      ""1"",
+      ""2"",
+      ""3""
+    ],
+    ""siblings_older"": [
+      ""1"",
+      ""2"",
+      ""3""
+    ]
+  },
+  {
+    ""id"": ""spouse_of_1"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""spouse_id"": ""1"",
+    ""children_ids"": [
+      ""5"",
+      ""6"",
+      ""7""
+    ]
+  },
+  {
+    ""id"": ""spouse_of_2"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""spouse_id"": ""2"",
+    ""children_ids"": [
+      ""8"",
+      ""9""
+    ]
+  },
+  {
+    ""id"": ""spouse_of_3"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""spouse_id"": ""3"",
+    ""children_ids"": [
+      ""Boni"",
+      ""Rosalina""
+    ]
+  },
+  {
+    ""id"": ""spouse_of_4"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""spouse_id"": ""4"",
+    ""children_ids"": [
+      ""10""
+    ]
+  },
+  {
+    ""id"": ""5"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""father_id"": ""spouse_of_1"",
+    ""mother_id"": ""1"",
+    ""sibling_ids"": [
+      ""6"",
+      ""7""
+    ],
+    ""siblings_younger"": [
+      ""6"",
+      ""7""
+    ]
+  },
+  {
+    ""id"": ""6"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""spouse_of_1"",
+    ""mother_id"": ""1"",
+    ""sibling_ids"": [
+      ""5"",
+      ""7""
+    ],
+    ""siblings_older"": [
+      ""5""
+    ],
+    ""siblings_younger"": [
+      ""7""
+    ]
+  },
+  {
+    ""id"": ""7"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""spouse_of_1"",
+    ""mother_id"": ""1"",
+    ""sibling_ids"": [
+      ""5"",
+      ""6""
+    ],
+    ""siblings_older"": [
+      ""5"",
+      ""6""
+    ]
+  },
+  {
+    ""id"": ""8"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""2"",
+    ""mother_id"": ""spouse_of_2"",
+    ""sibling_ids"": [
+      ""9""
+    ],
+    ""siblings_younger"": [
+      ""9""
+    ]
+  },
+  {
+    ""id"": ""9"",
+    ""name"": null,
+    ""gender"": ""man"",
+    ""father_id"": ""2"",
+    ""mother_id"": ""spouse_of_2"",
+    ""sibling_ids"": [
+      ""8""
+    ],
+    ""siblings_older"": [
+      ""8""
+    ]
+  },
+  {
+    ""id"": ""Boni"",
+    ""name"": ""Boni"",
+    ""gender"": ""man"",
+    ""father_id"": ""spouse_of_3"",
+    ""mother_id"": ""3"",
+    ""sibling_ids"": [
+      ""Rosalina""
+    ],
+    ""siblings_younger"": [
+      ""Rosalina""
+    ]
+  },
+  {
+    ""id"": ""Rosalina"",
+    ""name"": ""Rosalina"",
+    ""gender"": ""woman"",
+    ""father_id"": ""spouse_of_3"",
+    ""mother_id"": ""3"",
+    ""sibling_ids"": [
+      ""Boni""
+    ],
+    ""siblings_older"": [
+      ""Boni""
+    ]
+  },
+  {
+    ""id"": ""10"",
+    ""name"": null,
+    ""gender"": ""woman"",
+    ""father_id"": ""4"",
+    ""mother_id"": ""spouse_of_4""
+  }
+]
+
+The names of four family members are given: the eldest couple (Elias and Luzia) and the two eldest people (Boni and Rosalina) from the youngest generation. Some other family members are identified below by letters (A–J) and represented on the tree by numbers (1–10), not necessarily in this order. People marked in grey do not appear in this problem; in the JSON these are the married-in spouses, shown with id ""spouse_of_N"".
+
+Now observe some of the phrases that these people can say to describe their family relationships. In each row, the speaker is indicated to the left of the colon, and the phrases spoken by this person are to the right of the colon. For example, G: Elias abitop means that G is saying ""Elias is abitop = my …"".
+
+Elias: A otak; H otaup
+Luzia: B omẽpit
+Boni: J okip
+Rosalina: A ãsi
+A: Luzia ãsi; Rosalina omẽpit; B okwa; D okwa tak; E okwa taup; F oykey mẽpit; G oykey; I …(i)
+B: Rosalina omãykut; A okoypet; D otak; E otaup; I omãykut
+C: I okoypet; G ãsi
+D: Rosalina …(ii); F okwa; I okupi
+E: C okip; D …(iii); J oyke
+F: C …(iv); E okip; G ãsi; I okoypet
+G: Elias abitop; Boni okupi mẽpit; A okupi; B …(v); E okwa taup; F omẽpit; I omẽpit
+H: Elias abitop; B oyke; C omãykut; D …(vi); E otaup
+I: F okwa; G ãsi
+J: B abitop; F oyke; I okoypet
+
+The Sakurabiat language belongs to the Tuparian branch of the Tupian family. It is spoken by approx. 13 people in the Brazilian Amazon rainforest, close to the border with Bolivia. u ≈ oo in goose but with the lips unrounded. The mark ˜ indicates a nasal vowel.","Fill in the blanks (i–vi). There is only one possible answer for each blank, but each answer is not necessarily just one word.",eng_Latn,['skf_Latn'],fill_blanks,single
+12026050100,"Here are some sentences in English and their Komnzo translations:
+
+1. I met them yesterday. | kayé thewafé
+2. You all were calling me a week ago. | nümä wobräknwath
+3. We were holding them a week ago. | nümä efathwake
+4. We held you all a week ago. | nümä thefafake
+5. You all are meeting us now. | zena nwagrwrth
+6. We are seeing you all now. | zena emarwe
+7. I am calling them now. | zena ebräknwé
+8. They returned you all a week ago. | nümä thäbrimath
+9. You all were holding us a week ago. | nümä nfathwath
+10. We returned them yesterday. | kayé thäbrime
+11. They are returning me now. | zena wobrigwrth
+12. You all saw me a week ago. | nümä zwemarath
+13. They called us yesterday. | kayé nznästh
+14. They called me a week ago. | nümä zwäsath
+15. I was meeting them a week ago. | nümä ewagrwa
+
+The Komnzo language belongs to the Yam family. It is spoken by approx. 250 people in the village of Rouku in the south of Papua New Guinea. ä, é, ü are vowels; th is a consonant.","Translate into Komnzo:
+
+16. You all held me yesterday.
+17. I called you all a week ago.
+18. You all are holding me now.
+19. They met us a week ago.",eng_Latn,['mis_Latn'],translation,single
+12026050200,"Here are some sentences in English and their Komnzo translations:
+
+1. I met them yesterday. | kayé thewafé
+2. You all were calling me a week ago. | nümä wobräknwath
+3. We were holding them a week ago. | nümä efathwake
+4. We held you all a week ago. | nümä thefafake
+5. You all are meeting us now. | zena nwagrwrth
+6. We are seeing you all now. | zena emarwe
+7. I am calling them now. | zena ebräknwé
+8. They returned you all a week ago. | nümä thäbrimath
+9. You all were holding us a week ago. | nümä nfathwath
+10. We returned them yesterday. | kayé thäbrime
+11. They are returning me now. | zena wobrigwrth
+12. You all saw me a week ago. | nümä zwemarath
+13. They called us yesterday. | kayé nznästh
+14. They called me a week ago. | nümä zwäsath
+15. I was meeting them a week ago. | nümä ewagrwa
+
+The Komnzo language belongs to the Yam family. It is spoken by approx. 250 people in the village of Rouku in the south of Papua New Guinea. ä, é, ü are vowels; th is a consonant.","Translate into English in all possible ways:
+
+20. nümä nbrigwath
+21. kayé thefafé
+22. nümä emarwa
+23. kayé nznäbrimth",eng_Latn,['mis_Latn'],translation,multi

@@ -1,0 +1,15 @@
+id,answer,split,points,task_type,eval_type
+12026010100,"[""melquleliurta"", ""qayapigkani_NS"", ""tallirraq"", ""keggsailkutaq"", ""cup'gallagtuq""]",public,1,translation,single
+12026010200,"[""[a.ˈaχ.taχ.tuqʰ]"", ""[a.ˈkək.ka.ˈtaː.ki]"", ""[nə.ˈɣav.ɣun]"", ""[a.ˈtaː.zu.akʰ]"", ""[ˈnəʁ.ci.quqʰ]"", ""[a.ˈɮiː.kən.ˈʁiː.ta.qa] [a.ˈɮiː.ˈkən.ʁi.ˈtaː.qa]"", ""[ˈnəqʰ.ɬin.ˈχaʁ.məkʰ]""]",private,1,translation,single
+12026020100,"[""C"", ""A"", ""B"", ""G"", ""D"", ""F"", ""E"", ""M"", ""K"", ""N"", ""P"", ""H"", ""I"", ""J"", ""L"", ""O"", ""Y"", ""X"", ""Q"", ""S"", ""Z"", ""U"", ""AA"", ""V"", ""R"", ""T"", ""W""]",public,1,match_letters,single
+12026020200,"[[""banana tree"", ""like (similar to)""], [""white cockatoo""], [""ripe""], [""honey""], [""the English language""], [""eye""]]",public,1,translation,multi
+12026020300,"[""tp:oo"", ""yi kuu yââ k:ii"", ""kini"", ""kuu"", ""nt:uu"", ""pi kpêdêkpêdê"", ""Yélî""]",private,1,translation,single
+12026020400,"[""Some colours (black, white, red — the most basic in the colour hierarchy) are formed by reduplication from the name of an animal or plant. Other colours (green, yellow) are expressed through comparison phrases: green = 'like fresh tree leaves', yellow = 'like a ripe banana fruit'.""]",private,0,fill_blanks,single
+12026020500,"[""MM"", ""JJ"", ""NN"", ""LL"", ""KK"", ""II""]",public,1,match_letters,single
+12026030100,"[[""You will visit these teachers of the woman.""], [""They saw Leo's fish.""], [""I will sell this canoe of the woman."", ""I will sell this woman the canoe.""], [""I will care for these children of this man.""]]",private,1,translation,multi
+12026030200,"[[""kia=masɨɨkura iipɨ iiminaka mɨra""], [""kia=paajuuyaana iiyɨɨ isikɨrɨɨ""], [""ki=iipɨ iita masɨɨrɨɨ iitimɨra""], [""nu=iimi masɨɨtɨɨrɨɨ simiimɨya Ima"", ""nu=Ima masɨɨtɨɨrɨɨ iimi simiimɨya""], [""ki=iina irikatajuurɨɨ iipɨ iimina ikwaniwɨya""]]",public,1,translation,multi
+12026040100,"[""G"", ""B"", ""A"", ""H"", ""I"", ""F"", ""C"", ""J"", ""E"", ""D""]",public,1,match_letters,single
+12026040200,"[""10"", ""5"", ""6"", ""8"", ""9"", ""7""]",private,1,fill_blanks,single
+12026040300,"[""oykey mẽpit"", ""oykey"", ""okoypet"", ""okip"", ""okwa"", ""otak""]",public,1,fill_blanks,single
+12026050100,"[""kayé zwefafth"", ""nümä thäsa"", ""zena wofathwrth"", ""nümä nznewafath""]",private,1,translation,single
+12026050200,"[[""you all were returning us a week ago"", ""they were returning us a week ago""], [""I held them yesterday"", ""I held you all yesterday""], [""I was seeing you all a week ago"", ""I was seeing them a week ago""], [""they returned us yesterday"", ""you all returned us yesterday""]]",public,1,translation,multi

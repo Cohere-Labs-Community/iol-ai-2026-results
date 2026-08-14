@@ -1,0 +1,49 @@
+rank,team,account_type,tier,score,exact_match,chrf,explanation_rate_pct,public_score_best_run,public_score_scored_run,model,record,archive_run_id,submitted_at_utc,best_run,score_of_best_run,score_gain_if_best_used
+1,arvindcr4,external,Tier 1,19.79,12.41,31.57,100.0,22.45,22.45,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/01_arvindcr4,arvindcr4_run08,2026-07-25 14:08:29,arvindcr4_run08,19.79,0.00
+2,BigRatz,external,Tier 1,18.85,11.55,30.75,100.0,20.92,20.92,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/02_BigRatz,BigRatz_run21,2026-07-26 15:40:43,BigRatz_run21,18.85,0.00
+3,hhhar,external,Tier 2,18.19,11.35,29.14,100.0,20.39,20.39,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/03_hhhar,hhhar_run11,2026-07-26 09:55:43,hhhar_run11,18.19,0.00
+4,friedspaghetti,external,Tier 2,17.91,11.07,28.98,100.0,20.08,20.08,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/04_friedspaghetti,friedspaghetti_run55,2026-07-26 08:34:52,friedspaghetti_run55,17.91,0.00
+5,mastermind,external,Tier 3,16.73,10.07,27.78,100.0,18.22,18.22,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/05_mastermind,mastermind_run25,2026-07-26 18:40:30,mastermind_run25,16.73,0.00
+6,Hul,external,Tier 3,16.72,9.84,28.41,100.0,18.28,18.28,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/06_Hul,Hul_run21,2026-07-26 20:45:06,Hul_run08,16.72,0.00
+7,jbuaba,external,Tier 3,16.51,9.84,27.68,100.0,17.82,17.82,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/07_jbuaba,jbuaba_run11,2026-07-26 10:57:16,jbuaba_run08,16.51,0.00
+8,attractordynamics,external,Tier 3,15.85,9.12,27.56,100.0,17.12,17.01,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/08_attractordynamics,attractordynamics_run01,2026-07-19 13:13:51,attractordynamics_run25,15.90,0.05
+9,LOPE-NTU,external,Honorable mention,15.12,9.62,23.78,0.0,16.16,14.51,Qwen3.5-4B GGUF,submissions/09_LOPE-NTU,LOPE-NTU_run21,2026-07-26 03:59:06,LOPE-NTU_run20,15.12,0.00
+10,srikarkashyap,external,Honorable mention,14.67,7.98,26.99,100.0,15.62,14.92,Qwen3-14B AWQ 4-bit,submissions/10_srikarkashyap,srikarkashyap_run25,2026-07-21 23:51:02,srikarkashyap_run29,14.88,0.21
+11,cabanosss,external,Honorable mention,14.61,7.45,28.67,100.0,19.57,19.57,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/11_cabanosss,cabanosss_run12,2026-07-24 14:20:24,cabanosss_run09,17.28,2.67
+12,randomizer,external,Honorable mention,14.51,7.69,27.37,100.0,14.7,14.70,Qwen3-14B AWQ 4-bit,submissions/12_randomizer,randomizer_run06,2026-07-12 17:39:08,randomizer_run03,14.51,0.00
+13,saital,external,Honorable mention,14.46,7.34,28.49,0.0,14.91,14.91,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/13_saital,saital_run04,2026-07-24 12:38:54,saital_run04,14.46,0.00
+14,Papajams,external,,13.92,7.31,26.53,100.0,11.41,11.41,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/14_Papajams,Papajams_run12,2026-07-26 19:42:39,Papajams_run12,13.92,0.00
+15,Agnivarcas,external,,13.7,7.19,26.1,100.0,15.55,15.55,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/15_Agnivarcas,Agnivarcas_run10,2026-07-26 18:06:24,Agnivarcas_run10,13.70,0.00
+16,newendiesports,external,,13.57,7.19,25.61,100.0,15.55,15.55,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/16_newendiesports,newendiesports_run16,2026-07-26 16:55:04,newendiesports_run16,13.57,0.00
+17,hotleafjuice,external,,13.43,6.05,29.77,0.0,14.37,14.37,Gemma-4-12B-IT GGUF,submissions/17_hotleafjuice,hotleafjuice_run04,2026-07-25 17:17:53,hotleafjuice_run04,13.43,0.00
+18,lim_sim,external,,13.39,6.77,26.51,0.0,13.11,13.11,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/18_lim_sim,lim_sim_run09,2026-07-19 15:21:21,lim_sim_run09,13.39,0.00
+19,ahsanatiq98,external,,13.34,7.05,25.22,92.86,16.15,16.15,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/19_ahsanatiq98,ahsanatiq98_run12,2026-07-26 10:48:17,ahsanatiq98_run12,13.34,0.00
+20,ChrisR05,external,,13.12,6.6,26.09,0.0,17.22,17.22,Qwen3.5-9B,submissions/20_ChrisR05,ChrisR05_run14,2026-07-20 20:06:09,ChrisR05_run13,14.84,1.72
+21,Curious,external,,12.75,6.05,26.84,100.0,12.1,12.10,Qwen3-14B AWQ 4-bit,submissions/21_Curious,Curious_run25,2026-07-17 08:04:47,Curious_run25,12.75,0.00
+22,HamnaKaleem,external,,12.15,5.77,25.6,0.0,16.1,16.10,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/22_HamnaKaleem,HamnaKaleem_run01,2026-07-23 20:26:27,HamnaKaleem_run01,12.15,0.00
+23,KingpinFisk,external,,11.97,5.67,25.29,100.0,14.09,14.09,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/23_KingpinFisk,KingpinFisk_run06,2026-07-26 03:18:58,KingpinFisk_run10,13.59,1.62
+24,SSOO,external,,11.96,6.31,22.68,100.0,12.33,12.33,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/24_SSOO,SSOO_run11,2026-07-25 16:43:26,SSOO_run06,12.93,0.97
+25,divagr1925,external,,11.77,5.34,25.93,0.0,10.14,10.14,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/25_divagr1925,divagr1925_run01,2026-07-17 21:59:57,divagr1925_run01,11.77,0.00
+26,macbook,external,,11.43,5.34,24.46,100.0,9.84,9.84,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/26_macbook,macbook_run01,2026-07-26 19:05:32,macbook_run01,11.43,0.00
+27,TJ,external,,11.03,4.67,26.06,0.0,8.7,8.70,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/27_TJ,TJ_run02,2026-07-20 13:16:19,TJ_run02,11.03,0.00
+28,DanielTobi0,external,,10.56,5.06,22.04,92.86,8.81,8.81,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/28_DanielTobi0,DanielTobi0_run01,2026-07-24 14:57:03,DanielTobi0_run01,10.56,0.00
+29,alyjimkh,external,,10.08,5.67,17.91,0.0,8.94,8.94,Qwen2.5-7B-Instruct,submissions/29_alyjimkh,alyjimkh_run02,2026-07-21 21:55:20,alyjimkh_run02,10.08,0.00
+30,raf,external,,9.63,5.13,18.08,100.0,8.89,8.48,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/30_raf,raf_run08,2026-07-25 21:15:07,raf_run08,9.63,0.00
+31,Baseline-Qwen2.5-14B-AWQ,organizer,,9.4,4.49,19.7,0.0,12.27,12.27,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/31_Baseline-Qwen2.5-14B-AWQ,Baseline-Qwen2.5-14B-AWQ_run11,2026-07-09 09:28:32,Baseline-Qwen2.5-14B-AWQ_run10,9.49,0.09
+32,lindaz,external,,9.4,4.49,19.7,0.0,12.27,12.27,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/32_lindaz,lindaz_run04,2026-07-24 23:49:03,lindaz_run04,9.40,0.00
+33,rpant,external,,8.43,3.21,22.19,100.0,14.85,10.67,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/33_rpant,rpant_run04,2026-07-25 14:20:44,rpant_run12,13.27,4.84
+34,Tiny-Aya-R1,organizer-participation,,8.24,4.39,15.49,0.0,11.03,11.03,,submissions/34_Tiny-Aya-R1,Tiny-Aya-R1_run51,2026-07-23 12:33:25,Tiny-Aya-R1_run12,8.60,0.36
+35,BaselinesTinyAya,organizer,,8.12,4.1,16.09,0.0,5.89,5.48,TinyAya,submissions/35_BaselinesTinyAya,BaselinesTinyAya_run01,2026-07-10 02:20:25,BaselinesTinyAya_run01,8.12,0.00
+36,jithinjames,external,,7.69,3.85,15.4,100.0,13.03,4.45,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/36_jithinjames,jithinjames_run11,2026-07-25 13:56:08,jithinjames_run23,9.72,2.03
+37,MikCil,external,,7.53,2.85,19.89,0.0,8.99,8.99,Qwen3.5-9B,submissions/37_MikCil,MikCil_run04,2026-07-26 19:20:42,MikCil_run01,8.68,1.15
+38,Baseline-Qwen2.5-7B-Instruct,organizer,,7.1,2.56,19.65,0.0,0.0,,Qwen2.5-7B-Instruct,,,2026-07-08 00:27:45,,,
+39,workerplacemint,external,,6.57,3.06,14.07,0.0,14.7,8.55,Qwen2.5-1.5B-Instruct,submissions/39_workerplacemint,workerplacemint_run01,2026-07-08 22:34:25,workerplacemint_run09,14.51,7.94
+40,Pika,external,,5.56,2.56,12.05,0.0,7.51,7.51,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/40_Pika,Pika_run02,2026-07-25 20:34:04,Pika_run01,6.72,1.16
+41,Baseline-Qwen2.5-1.5B-Instruct,organizer,,4.0,1.28,12.51,0.0,0.0,,Qwen2.5-1.5B-Instruct,,,2026-07-07 23:43:17,,,
+42,pytransformer1,external,,2.45,0.28,21.11,0.0,3.0,3.00,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/42_pytransformer1,pytransformer1_run02,2026-07-12 02:26:44,pytransformer1_run03,3.75,1.30
+43,parinzee,external,,1.87,1.14,3.06,100.0,2.55,2.55,Qwen2.5-7B-Instruct,submissions/43_parinzee,parinzee_run02,2026-07-19 11:59:47,parinzee_run02,1.87,0.00
+44,iolai-test,organizer,,1.78,0.28,11.16,0.0,2.13,2.13,,submissions/44_iolai-test,iolai-test_run01,2026-07-24 17:33:07,iolai-test_run01,1.78,0.00
+45,ShayanShamsi,external,,0.0,0.0,0.0,0.0,5.72,0.00,Qwen3-4B,submissions/45_ShayanShamsi,ShayanShamsi_run01,2026-07-10 21:42:58,ShayanShamsi_run05,4.28,4.28
+46,atanb27,external,,0.0,0.0,12.3,100.0,0.0,0.00,Qwen2.5-7B-Instruct,submissions/46_atanb27,atanb27_run01,2026-07-22 12:21:32,atanb27_run01,0.00,0.00
+47,emharsha1812,external,,0.0,0.0,18.03,100.0,0.0,0.00,Qwen2.5-14B-Instruct AWQ 4-bit,submissions/47_emharsha1812,emharsha1812_run01,2026-07-24 17:22:30,emharsha1812_run01,0.00,0.00
+48,abhiandprusehf,external,,0.0,0.0,13.97,100.0,0.0,0.00,Qwen2.5-1.5B-Instruct,submissions/48_abhiandprusehf,abhiandprusehf_run01,2026-07-26 19:07:41,abhiandprusehf_run01,0.00,0.00
